@@ -1,0 +1,238 @@
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-025_todos__simtema-01_tema_09_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000023 kg
+Duração: 0:01:12.623535
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-025_todos__simtema-02_tema_08_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000001 kg
+Duração: 0:01:19.261361
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-025_todos__simtema-03_tema_07_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000025 kg
+Duração: 0:01:18.818641
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-025_todos__simtema-04_tema_06_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000026 kg
+Duração: 0:01:21.427284
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-025_todos__simtema-05_tema_05_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000029 kg
+Duração: 0:01:27.805273
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-025_todos__simtema-06_tema_04_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000026 kg
+Duração: 0:01:21.297909
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-025_todos__simtema-07_tema_03_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:17.260097
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-025_todos__simtema-08_tema_02_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:17.684300
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-025_todos__simtema-09_tema_01_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:18.022135
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-03_producao_resumo_02_palavra_area__simtema-01_tema_09_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:17.410381
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-03_producao_resumo_02_palavra_area__simtema-02_tema_08_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:17.302785
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-03_producao_resumo_02_palavra_area__simtema-03_tema_07_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:17.360850
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-03_producao_resumo_02_palavra_area__simtema-04_tema_06_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:17.978601
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-03_producao_resumo_02_palavra_area__simtema-05_tema_05_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:17.563506
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-03_producao_resumo_02_palavra_area__simtema-06_tema_04_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:17.364555
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-03_producao_resumo_02_palavra_area__simtema-07_tema_03_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:17.674694
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-03_producao_resumo_02_palavra_area__simtema-08_tema_02_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000001 kg
+Duração: 0:01:17.925378
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-03_producao_resumo_02_palavra_area__simtema-09_tema_01_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:17.322536
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-02_producao_resumo_03_palavra_area__simtema-01_tema_09_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:17.178595
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-02_producao_resumo_03_palavra_area__simtema-02_tema_08_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000029 kg
+Duração: 0:01:26.253318
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-02_producao_resumo_03_palavra_area__simtema-03_tema_07_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000028 kg
+Duração: 0:01:27.395306
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-02_producao_resumo_03_palavra_area__simtema-04_tema_06_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000027 kg
+Duração: 0:01:26.174138
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-02_producao_resumo_03_palavra_area__simtema-05_tema_05_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000029 kg
+Duração: 0:01:28.429468
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-02_producao_resumo_03_palavra_area__simtema-06_tema_04_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000031 kg
+Duração: 0:01:34.074347
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-02_producao_resumo_03_palavra_area__simtema-07_tema_03_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000028 kg
+Duração: 0:01:26.984737
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-02_producao_resumo_03_palavra_area__simtema-08_tema_02_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000028 kg
+Duração: 0:01:27.131438
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-mean__campos-02_producao_resumo_03_palavra_area__simtema-09_tema_01_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000028 kg
+Duração: 0:01:27.180349
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-025_todos__simtema-01_tema_09_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000029 kg
+Duração: 0:01:29.732676
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-025_todos__simtema-02_tema_08_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000001 kg
+Duração: 0:01:28.177037
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-025_todos__simtema-03_tema_07_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000028 kg
+Duração: 0:01:27.778078
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-025_todos__simtema-04_tema_06_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000028 kg
+Duração: 0:01:27.881956
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-025_todos__simtema-05_tema_05_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000028 kg
+Duração: 0:01:28.464186
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-025_todos__simtema-06_tema_04_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000028 kg
+Duração: 0:01:27.522230
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-025_todos__simtema-07_tema_03_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000028 kg
+Duração: 0:01:26.774142
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-025_todos__simtema-08_tema_02_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000028 kg
+Duração: 0:01:26.587918
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-025_todos__simtema-09_tema_01_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000027 kg
+Duração: 0:01:26.780029
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-03_producao_resumo_02_palavra_area__simtema-01_tema_09_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000028 kg
+Duração: 0:01:27.353495
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-03_producao_resumo_02_palavra_area__simtema-02_tema_08_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000028 kg
+Duração: 0:01:28.397654
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-03_producao_resumo_02_palavra_area__simtema-03_tema_07_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000027 kg
+Duração: 0:01:25.660208
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-03_producao_resumo_02_palavra_area__simtema-04_tema_06_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000027 kg
+Duração: 0:01:24.996816
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-03_producao_resumo_02_palavra_area__simtema-05_tema_05_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000027 kg
+Duração: 0:01:24.123483
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-03_producao_resumo_02_palavra_area__simtema-06_tema_04_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000027 kg
+Duração: 0:01:24.817508
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-03_producao_resumo_02_palavra_area__simtema-07_tema_03_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000026 kg
+Duração: 0:01:23.668952
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-03_producao_resumo_02_palavra_area__simtema-08_tema_02_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000025 kg
+Duração: 0:01:19.187982
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-03_producao_resumo_02_palavra_area__simtema-09_tema_01_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000025 kg
+Duração: 0:01:18.896498
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-02_producao_resumo_03_palavra_area__simtema-01_tema_09_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000025 kg
+Duração: 0:01:19.180620
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-02_producao_resumo_03_palavra_area__simtema-02_tema_08_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000025 kg
+Duração: 0:01:19.173269
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-02_producao_resumo_03_palavra_area__simtema-03_tema_07_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000025 kg
+Duração: 0:01:19.035824
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-02_producao_resumo_03_palavra_area__simtema-04_tema_06_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000025 kg
+Duração: 0:01:19.097218
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-02_producao_resumo_03_palavra_area__simtema-05_tema_05_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000001 kg
+Duração: 0:01:19.281843
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-02_producao_resumo_03_palavra_area__simtema-06_tema_04_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:18.383177
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-02_producao_resumo_03_palavra_area__simtema-07_tema_03_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:18.708685
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-02_producao_resumo_03_palavra_area__simtema-08_tema_02_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000024 kg
+Duração: 0:01:18.484153
+--------------------------------------------------------------------------------
+Arquivo salvo: metricas_por_tema__chunk-max__campos-02_producao_resumo_03_palavra_area__simtema-09_tema_01_palavras_miniLM.parquet
+Emissões CO2 desta combinação: 0.000025 kg
+Duração: 0:01:19.949593
+--------------------------------------------------------------------------------
+
+================================================================================
+RESUMO DE EMISSÕES DE CARBONO POR COMBINAÇÃO
+================================================================================
+Total de combinações processadas: 54
+Emissões totais: 0.001309 kg CO2
+Duração total: 1.24 horas
+Emissão média por combinação: 0.000024 kg CO2
+
+Top 5 combinações com maiores emissões:
+  mean | 02_producao_resumo_03_palavra_area | 06_tema_04_palavras: 0.000031 kg CO2 (94.1s)
+  max | 025_todos | 01_tema_09_palavras: 0.000029 kg CO2 (89.7s)
+  mean | 025_todos | 05_tema_05_palavras: 0.000029 kg CO2 (87.8s)
+  mean | 02_producao_resumo_03_palavra_area | 02_tema_08_palavras: 0.000029 kg CO2 (86.3s)
+  mean | 02_producao_resumo_03_palavra_area | 05_tema_05_palavras: 0.000029 kg CO2 (88.4s)
+
+Relatório detalhado salvo em: ./miniLM_metrics_emissions/emissions_report_by_combination.parquet
+
+Inicio: 2025-09-06 14:35:05.668090
+Fim: 2025-09-06 15:55:15.144231
+Tempo Total: 1:20:09.476141
+Emissões totais do script completo: 0.001309 kg CO2

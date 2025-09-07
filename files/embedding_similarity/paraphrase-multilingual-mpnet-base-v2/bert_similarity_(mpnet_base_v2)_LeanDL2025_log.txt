@@ -1,0 +1,1392 @@
+2025-09-01 22:18:09,895 [INFO] Processador: x86_64
+2025-09-01 22:18:09,899 [INFO] Núcleos lógicos: 32
+2025-09-01 22:18:09,901 [INFO] Frequência máxima: 5087.50 MHz | Min: 800.00 MHz | Atual: 852.63 MHz
+2025-09-01 22:18:09,903 [INFO] Sistema operacional: Linux 6.11.0-29-generic
+2025-09-01 22:18:09,904 [INFO] Versão do Python: 3.12.3
+2025-09-01 22:18:09,906 [INFO] Uso inicial Memória usada: 1669.96 MB
+2025-09-01 22:18:09,907 [INFO] Início do processamento: 2025-09-01 22:18:09.907777
+2025-09-01 22:18:10,382 [INFO] Tema 1/458: Agronegócio e Tecnologias de Informação e Comunicação (id 1)
+2025-09-01 22:18:10,383 [INFO] Antes do processamento do tema 1 Memória usada: 2288.83 MB
+2025-09-01 22:18:13,294 [INFO] Depois do processamento do tema 1 Memória usada: 3022.30 MB
+2025-09-01 22:18:13,296 [INFO] Tema 2/458: Biodiversidade e Biotecnologia (id 3)
+2025-09-01 22:18:13,296 [INFO] Antes do processamento do tema 2 Memória usada: 3022.30 MB
+2025-09-01 22:18:16,076 [INFO] Depois do processamento do tema 2 Memória usada: 3039.78 MB
+2025-09-01 22:18:16,079 [INFO] Tema 3/458: Bioeconomia: cadeias produtivas prioritárias, produtos e serviços (id 4)
+2025-09-01 22:18:16,079 [INFO] Antes do processamento do tema 3 Memória usada: 3039.78 MB
+2025-09-01 22:18:18,766 [INFO] Depois do processamento do tema 3 Memória usada: 3049.29 MB
+2025-09-01 22:18:18,769 [INFO] Tema 4/458: Desenvolvimento Regional da Tríplice Divisa Amazonas-Acre-Rondônia (id 5)
+2025-09-01 22:18:18,770 [INFO] Antes do processamento do tema 4 Memória usada: 3049.29 MB
+2025-09-01 22:18:23,206 [INFO] Depois do processamento do tema 4 Memória usada: 3050.41 MB
+2025-09-01 22:18:23,208 [INFO] Tema 5/458: Desenvolvimento Regional: integração Estado-Município (id 6)
+2025-09-01 22:18:23,209 [INFO] Antes do processamento do tema 5 Memória usada: 3050.41 MB
+2025-09-01 22:18:26,090 [INFO] Depois do processamento do tema 5 Memória usada: 3055.83 MB
+2025-09-01 22:18:26,093 [INFO] Tema 6/458: Gestão e Políticas Públicas: governança e conformidade (id 8)
+2025-09-01 22:18:26,093 [INFO] Antes do processamento do tema 6 Memória usada: 3055.83 MB
+2025-09-01 22:18:29,123 [INFO] Depois do processamento do tema 6 Memória usada: 3053.73 MB
+2025-09-01 22:18:29,126 [INFO] Tema 7/458: Integração entre Academia, Setor Empresarial e Sociedade (id 11)
+2025-09-01 22:18:29,126 [INFO] Antes do processamento do tema 7 Memória usada: 3053.73 MB
+2025-09-01 22:18:32,649 [INFO] Depois do processamento do tema 7 Memória usada: 3058.89 MB
+2025-09-01 22:18:32,652 [INFO] Tema 8/458: Novas Tecnologias em Saúde e População Amazônica (id 12)
+2025-09-01 22:18:32,653 [INFO] Antes do processamento do tema 8 Memória usada: 3058.89 MB
+2025-09-01 22:18:35,387 [INFO] Depois do processamento do tema 8 Memória usada: 3058.95 MB
+2025-09-01 22:18:35,390 [INFO] Tema 9/458: Parcerias Público-Privadas: aprimoramento de processos produtivos (id 13)
+2025-09-01 22:18:35,391 [INFO] Antes do processamento do tema 9 Memória usada: 3058.95 MB
+2025-09-01 22:18:38,139 [INFO] Depois do processamento do tema 9 Memória usada: 3058.96 MB
+2025-09-01 22:18:38,142 [INFO] Tema 10/458: Políticas Públicas e Manutenção de Negócios: incentivos em pesquisa, desenvolvimento, empreendedorismo, tecnologia e inovação (id 14)
+2025-09-01 22:18:38,143 [INFO] Antes do processamento do tema 10 Memória usada: 3058.96 MB
+2025-09-01 22:18:40,699 [INFO] Depois do processamento do tema 10 Memória usada: 3060.03 MB
+2025-09-01 22:18:40,800 [INFO] Tema 11/458: Preservação Ambiental: pesquisa e tecnologia (id 15)
+2025-09-01 22:18:40,801 [INFO] Antes do processamento do tema 11 Memória usada: 3062.79 MB
+2025-09-01 22:18:43,647 [INFO] Depois do processamento do tema 11 Memória usada: 3064.86 MB
+2025-09-01 22:18:43,651 [INFO] Tema 12/458: Bioeconomia, Bioinsumos e Biotecnologia: segurança alimentar, saúde, energias renováveis e agroinsumos (id 16)
+2025-09-01 22:18:43,652 [INFO] Antes do processamento do tema 12 Memória usada: 3064.86 MB
+2025-09-01 22:18:46,903 [INFO] Depois do processamento do tema 12 Memória usada: 3066.85 MB
+2025-09-01 22:18:46,905 [INFO] Tema 13/458: Cadeias Produtivas e Economia Criativa (id 17)
+2025-09-01 22:18:46,906 [INFO] Antes do processamento do tema 13 Memória usada: 3066.85 MB
+2025-09-01 22:18:49,683 [INFO] Depois do processamento do tema 13 Memória usada: 3067.34 MB
+2025-09-01 22:18:49,686 [INFO] Tema 14/458: Cidades Inteligentes (id 18)
+2025-09-01 22:18:49,687 [INFO] Antes do processamento do tema 14 Memória usada: 3067.34 MB
+2025-09-01 22:18:52,635 [INFO] Depois do processamento do tema 14 Memória usada: 3066.41 MB
+2025-09-01 22:18:52,638 [INFO] Tema 15/458: Desastres, Mudanças Climáticas e Impactos Ambientais (id 19)
+2025-09-01 22:18:52,638 [INFO] Antes do processamento do tema 15 Memória usada: 3066.41 MB
+2025-09-01 22:18:55,612 [INFO] Depois do processamento do tema 15 Memória usada: 3067.43 MB
+2025-09-01 22:18:55,615 [INFO] Tema 16/458: Economia de Serviços: turismo, economia criativa e bem-estar (id 20)
+2025-09-01 22:18:55,615 [INFO] Antes do processamento do tema 16 Memória usada: 3067.43 MB
+2025-09-01 22:18:58,246 [INFO] Depois do processamento do tema 16 Memória usada: 3068.44 MB
+2025-09-01 22:18:58,249 [INFO] Tema 17/458: Educação Básica (id 21)
+2025-09-01 22:18:58,249 [INFO] Antes do processamento do tema 17 Memória usada: 3068.44 MB
+2025-09-01 22:19:05,829 [INFO] Depois do processamento do tema 17 Memória usada: 3069.46 MB
+2025-09-01 22:19:05,832 [INFO] Tema 18/458: Empreendedorismo e Transferência de Tecnologias com Ênfase no 3º Setor (id 22)
+2025-09-01 22:19:05,833 [INFO] Antes do processamento do tema 18 Memória usada: 3069.46 MB
+2025-09-01 22:19:08,691 [INFO] Depois do processamento do tema 18 Memória usada: 3071.27 MB
+2025-09-01 22:19:08,693 [INFO] Tema 19/458: Extensão Universitária: inserção social (id 24)
+2025-09-01 22:19:08,694 [INFO] Antes do processamento do tema 19 Memória usada: 3071.27 MB
+2025-09-01 22:19:16,077 [INFO] Depois do processamento do tema 19 Memória usada: 3072.16 MB
+2025-09-01 22:19:16,080 [INFO] Tema 20/458: Indústria 4.0 e Manufatura 5.0: setores estratégicos e soluções para desafios ambientais (id 25)
+2025-09-01 22:19:16,081 [INFO] Antes do processamento do tema 20 Memória usada: 3072.16 MB
+2025-09-01 22:19:45,006 [INFO] Depois do processamento do tema 20 Memória usada: 3074.16 MB
+2025-09-01 22:19:45,124 [INFO] Tema 21/458: Parcerias Público-Privadas: estratégias para inovação e sustentabilidade (id 26)
+2025-09-01 22:19:45,125 [INFO] Antes do processamento do tema 21 Memória usada: 3068.18 MB
+2025-09-01 22:19:48,425 [INFO] Depois do processamento do tema 21 Memória usada: 3070.05 MB
+2025-09-01 22:19:48,428 [INFO] Tema 22/458: Planejamento Governamental e Políticas Públicas (id 27)
+2025-09-01 22:19:48,428 [INFO] Antes do processamento do tema 22 Memória usada: 3070.05 MB
+2025-09-01 22:19:52,230 [INFO] Depois do processamento do tema 22 Memória usada: 3072.67 MB
+2025-09-01 22:19:52,233 [INFO] Tema 23/458: Popularização da Ciência (id 28)
+2025-09-01 22:19:52,233 [INFO] Antes do processamento do tema 23 Memória usada: 3072.67 MB
+2025-09-01 22:19:57,428 [INFO] Depois do processamento do tema 23 Memória usada: 3072.81 MB
+2025-09-01 22:19:57,431 [INFO] Tema 24/458: Primeira Infância e Saúde Mental (id 29)
+2025-09-01 22:19:57,432 [INFO] Antes do processamento do tema 24 Memória usada: 3072.81 MB
+2025-09-01 22:20:00,849 [INFO] Depois do processamento do tema 24 Memória usada: 3074.58 MB
+2025-09-01 22:20:00,852 [INFO] Tema 25/458: Recursos Naturais Estratégicos (id 30)
+2025-09-01 22:20:00,852 [INFO] Antes do processamento do tema 25 Memória usada: 3074.58 MB
+2025-09-01 22:20:04,080 [INFO] Depois do processamento do tema 25 Memória usada: 3075.56 MB
+2025-09-01 22:20:04,083 [INFO] Tema 26/458: Saúde: pesquisa básica, clínica e aplicada, saúde populacional e coletiva, epidemiologia, inovação e gestão (id 31)
+2025-09-01 22:20:04,083 [INFO] Antes do processamento do tema 26 Memória usada: 3075.56 MB
+2025-09-01 22:20:09,317 [INFO] Depois do processamento do tema 26 Memória usada: 3076.63 MB
+2025-09-01 22:20:09,320 [INFO] Tema 27/458: Tecnologias da Informação e Comunicação: inteligência artificial, humanidade digital e ciência de dados (id 32)
+2025-09-01 22:20:09,320 [INFO] Antes do processamento do tema 27 Memória usada: 3076.63 MB
+2025-09-01 22:20:12,437 [INFO] Depois do processamento do tema 27 Memória usada: 3076.99 MB
+2025-09-01 22:20:12,440 [INFO] Tema 28/458: Agroecologia e Segurança Alimentar (id 33)
+2025-09-01 22:20:12,440 [INFO] Antes do processamento do tema 28 Memória usada: 3076.99 MB
+2025-09-01 22:20:15,356 [INFO] Depois do processamento do tema 28 Memória usada: 3079.80 MB
+2025-09-01 22:20:15,359 [INFO] Tema 29/458: Agroeconomia e Populações Tradicionais (id 34)
+2025-09-01 22:20:15,360 [INFO] Antes do processamento do tema 29 Memória usada: 3079.80 MB
+2025-09-01 22:20:18,040 [INFO] Depois do processamento do tema 29 Memória usada: 3081.10 MB
+2025-09-01 22:20:18,043 [INFO] Tema 30/458: Biodiversidade e Ecologia (id 35)
+2025-09-01 22:20:18,044 [INFO] Antes do processamento do tema 30 Memória usada: 3081.10 MB
+2025-09-01 22:20:21,071 [INFO] Depois do processamento do tema 30 Memória usada: 3081.12 MB
+2025-09-01 22:20:21,170 [INFO] Tema 31/458: Biodiversidade: desenvolvimento de plantas medicinais, alimentos, fauna e pesca (id 36)
+2025-09-01 22:20:21,171 [INFO] Antes do processamento do tema 31 Memória usada: 3077.27 MB
+2025-09-01 22:20:24,181 [INFO] Depois do processamento do tema 31 Memória usada: 3076.31 MB
+2025-09-01 22:20:24,184 [INFO] Tema 32/458: Biotecnologia Aplicada à Biodiversidade (id 37)
+2025-09-01 22:20:24,185 [INFO] Antes do processamento do tema 32 Memória usada: 3076.31 MB
+2025-09-01 22:20:26,981 [INFO] Depois do processamento do tema 32 Memória usada: 3075.20 MB
+2025-09-01 22:20:26,985 [INFO] Tema 33/458: Educação Inclusiva: abordagens pedagógicas voltadas às minorias (id 38)
+2025-09-01 22:20:26,985 [INFO] Antes do processamento do tema 33 Memória usada: 3075.20 MB
+2025-09-01 22:20:30,772 [INFO] Depois do processamento do tema 33 Memória usada: 3076.20 MB
+2025-09-01 22:20:30,775 [INFO] Tema 34/458: Educação e Cultura: fortalecimento e preservação da identidade cultural (id 39)
+2025-09-01 22:20:30,775 [INFO] Antes do processamento do tema 34 Memória usada: 3076.20 MB
+2025-09-01 22:20:34,117 [INFO] Depois do processamento do tema 34 Memória usada: 3078.23 MB
+2025-09-01 22:20:34,120 [INFO] Tema 35/458: Gestão de Recursos Hídricos: descontaminação de rios (id 42)
+2025-09-01 22:20:34,121 [INFO] Antes do processamento do tema 35 Memória usada: 3078.23 MB
+2025-09-01 22:20:36,857 [INFO] Depois do processamento do tema 35 Memória usada: 3081.33 MB
+2025-09-01 22:20:36,860 [INFO] Tema 36/458: Populações Tradicionais, Ciências Ambientais e Educação (id 43)
+2025-09-01 22:20:36,861 [INFO] Antes do processamento do tema 36 Memória usada: 3081.33 MB
+2025-09-01 22:20:41,171 [INFO] Depois do processamento do tema 36 Memória usada: 3081.36 MB
+2025-09-01 22:20:41,173 [INFO] Tema 37/458: Propriedade Intelectual: saberes dos povos tradicionais e originários (id 44)
+2025-09-01 22:20:41,174 [INFO] Antes do processamento do tema 37 Memória usada: 3081.36 MB
+2025-09-01 22:20:43,803 [INFO] Depois do processamento do tema 37 Memória usada: 3082.32 MB
+2025-09-01 22:20:43,806 [INFO] Tema 38/458: Proteção das Populações Tradicionais e da Biodiversidade (id 45)
+2025-09-01 22:20:43,806 [INFO] Antes do processamento do tema 38 Memória usada: 3082.32 MB
+2025-09-01 22:20:46,613 [INFO] Depois do processamento do tema 38 Memória usada: 3083.34 MB
+2025-09-01 22:20:46,617 [INFO] Tema 39/458: Saúde Pública: doenças tropicais e fármacos (id 47)
+2025-09-01 22:20:46,618 [INFO] Antes do processamento do tema 39 Memória usada: 3083.34 MB
+2025-09-01 22:20:49,637 [INFO] Depois do processamento do tema 39 Memória usada: 3083.64 MB
+2025-09-01 22:20:49,641 [INFO] Tema 40/458: Saúde Única: zoonoses, doenças tropicais, pragas agrícolas e segurança alimentar (id 48)
+2025-09-01 22:20:49,641 [INFO] Antes do processamento do tema 40 Memória usada: 3083.64 MB
+2025-09-01 22:20:53,283 [INFO] Depois do processamento do tema 40 Memória usada: 3083.77 MB
+2025-09-01 22:20:53,385 [INFO] Tema 41/458: Segurança da Informação: inteligência artificial e conhecimentos tradicionais (id 49)
+2025-09-01 22:20:53,386 [INFO] Antes do processamento do tema 41 Memória usada: 3083.13 MB
+2025-09-01 22:20:55,981 [INFO] Depois do processamento do tema 41 Memória usada: 3082.06 MB
+2025-09-01 22:20:55,983 [INFO] Tema 42/458: Serviços Ecossistêmicos: implementação e quantificação (id 50)
+2025-09-01 22:20:55,984 [INFO] Antes do processamento do tema 42 Memória usada: 3082.06 MB
+2025-09-01 22:21:36,931 [INFO] Depois do processamento do tema 42 Memória usada: 3081.43 MB
+2025-09-01 22:21:36,934 [INFO] Tema 43/458: Tecnologias para o Desenvolvimento Sustentável de Cidades Amazônicas (id 51)
+2025-09-01 22:21:36,935 [INFO] Antes do processamento do tema 43 Memória usada: 3081.43 MB
+2025-09-01 22:21:39,881 [INFO] Depois do processamento do tema 43 Memória usada: 3082.43 MB
+2025-09-01 22:21:39,884 [INFO] Tema 44/458: Turismo de Base Comunitária: alimentação, venda de produtos, fármacos, ambiente e cultura (id 53)
+2025-09-01 22:21:39,885 [INFO] Antes do processamento do tema 44 Memória usada: 3082.43 MB
+2025-09-01 22:21:42,442 [INFO] Depois do processamento do tema 44 Memória usada: 3082.34 MB
+2025-09-01 22:21:42,445 [INFO] Tema 45/458: Ambiental, Social e Governança: atividades industriais e mineração responsável (id 54)
+2025-09-01 22:21:42,445 [INFO] Antes do processamento do tema 45 Memória usada: 3082.34 MB
+2025-09-01 22:21:47,249 [INFO] Depois do processamento do tema 45 Memória usada: 3082.13 MB
+2025-09-01 22:21:47,252 [INFO] Tema 46/458: Ambiental, Social e Governança: cultura empreendedora e escalabilidade (id 55)
+2025-09-01 22:21:47,253 [INFO] Antes do processamento do tema 46 Memória usada: 3082.13 MB
+2025-09-01 22:21:51,505 [INFO] Depois do processamento do tema 46 Memória usada: 3084.50 MB
+2025-09-01 22:21:51,508 [INFO] Tema 47/458: Bioeconomia: bioindústria e biotecnologia para o desenvolvimento sustentável (id 56)
+2025-09-01 22:21:51,509 [INFO] Antes do processamento do tema 47 Memória usada: 3084.50 MB
+2025-09-01 22:21:56,462 [INFO] Depois do processamento do tema 47 Memória usada: 3085.89 MB
+2025-09-01 22:21:56,465 [INFO] Tema 48/458: Conservação e Uso Sustentável da Água: tecnologias e estratégias (id 57)
+2025-09-01 22:21:56,466 [INFO] Antes do processamento do tema 48 Memória usada: 3085.89 MB
+2025-09-01 22:21:59,177 [INFO] Depois do processamento do tema 48 Memória usada: 3087.87 MB
+2025-09-01 22:21:59,181 [INFO] Tema 49/458: Cultura Regional do Amazonas: estratégias para valorização (id 58)
+2025-09-01 22:21:59,181 [INFO] Antes do processamento do tema 49 Memória usada: 3087.87 MB
+2025-09-01 22:22:12,147 [INFO] Depois do processamento do tema 49 Memória usada: 3092.39 MB
+2025-09-01 22:22:12,149 [INFO] Tema 50/458: Economia Digital: comercialização, serviços e ciência de dados (id 59)
+2025-09-01 22:22:12,150 [INFO] Antes do processamento do tema 50 Memória usada: 3092.39 MB
+2025-09-01 22:22:15,563 [INFO] Depois do processamento do tema 50 Memória usada: 3099.03 MB
+2025-09-01 22:22:15,667 [INFO] Tema 51/458: Educação: metodologias ativas e tecnologias para a qualidade do ensino (id 60)
+2025-09-01 22:22:15,668 [INFO] Antes do processamento do tema 51 Memória usada: 3103.91 MB
+2025-09-01 22:22:27,171 [INFO] Depois do processamento do tema 51 Memória usada: 3101.44 MB
+2025-09-01 22:22:27,174 [INFO] Tema 52/458: Energia Limpa e Sustentável: novas tecnologias e acesso universal (id 61)
+2025-09-01 22:22:27,175 [INFO] Antes do processamento do tema 52 Memória usada: 3101.44 MB
+2025-09-01 22:22:30,184 [INFO] Depois do processamento do tema 52 Memória usada: 3100.45 MB
+2025-09-01 22:22:30,188 [INFO] Tema 53/458: Gestão Territorial: regularização fundiária e georreferenciamento (id 62)
+2025-09-01 22:22:30,188 [INFO] Antes do processamento do tema 53 Memória usada: 3100.45 MB
+2025-09-01 22:22:34,425 [INFO] Depois do processamento do tema 53 Memória usada: 3101.16 MB
+2025-09-01 22:22:34,428 [INFO] Tema 54/458: Indústria 4.0: otimização de processos produtivos, engenharia e tecnologia da informação (id 63)
+2025-09-01 22:22:34,429 [INFO] Antes do processamento do tema 54 Memória usada: 3101.16 MB
+2025-09-01 22:22:37,985 [INFO] Depois do processamento do tema 54 Memória usada: 3101.37 MB
+2025-09-01 22:22:37,987 [INFO] Tema 55/458: Inovação Tecnológica: produção de tecnologias alternativas (id 64)
+2025-09-01 22:22:37,988 [INFO] Antes do processamento do tema 55 Memória usada: 3101.37 MB
+2025-09-01 22:22:40,745 [INFO] Depois do processamento do tema 55 Memória usada: 3101.09 MB
+2025-09-01 22:22:40,748 [INFO] Tema 56/458: Legislações Ambientais: aperfeiçoamento e licenciamento de atividades produtivas (id 65)
+2025-09-01 22:22:40,748 [INFO] Antes do processamento do tema 56 Memória usada: 3101.09 MB
+2025-09-01 22:22:44,542 [INFO] Depois do processamento do tema 56 Memória usada: 3101.09 MB
+2025-09-01 22:22:44,544 [INFO] Tema 57/458: Populações Vulneráveis: desafios na saúde, agricultura e inclusão social (id 66)
+2025-09-01 22:22:44,544 [INFO] Antes do processamento do tema 57 Memória usada: 3101.09 MB
+2025-09-01 22:22:49,877 [INFO] Depois do processamento do tema 57 Memória usada: 3100.29 MB
+2025-09-01 22:22:49,879 [INFO] Tema 58/458: Recursos Hídricos: gerenciamento, portabilidade e acesso universal (id 67)
+2025-09-01 22:22:49,880 [INFO] Antes do processamento do tema 58 Memória usada: 3100.29 MB
+2025-09-01 22:22:53,392 [INFO] Depois do processamento do tema 58 Memória usada: 3101.31 MB
+2025-09-01 22:22:53,395 [INFO] Tema 59/458: Saberes Tradicionais: construção da identidade cultural por meio de conhecimento ancestral (id 68)
+2025-09-01 22:22:53,395 [INFO] Antes do processamento do tema 59 Memória usada: 3101.31 MB
+2025-09-01 22:22:57,458 [INFO] Depois do processamento do tema 59 Memória usada: 3101.40 MB
+2025-09-01 22:22:57,461 [INFO] Tema 60/458: Segurança do Patrimônio Genético (id 69)
+2025-09-01 22:22:57,462 [INFO] Antes do processamento do tema 60 Memória usada: 3101.40 MB
+2025-09-01 22:23:00,517 [INFO] Depois do processamento do tema 60 Memória usada: 3101.44 MB
+2025-09-01 22:23:00,621 [INFO] Tema 61/458: Sociobiodiversidade: ecoturismo e conhecimento tradicional (id 70)
+2025-09-01 22:23:00,621 [INFO] Antes do processamento do tema 61 Memória usada: 3101.46 MB
+2025-09-01 22:23:05,293 [INFO] Depois do processamento do tema 61 Memória usada: 3102.41 MB
+2025-09-01 22:23:05,296 [INFO] Tema 62/458: Tecnologias da Informação e Comunicação na Amazônia (id 71)
+2025-09-01 22:23:05,297 [INFO] Antes do processamento do tema 62 Memória usada: 3102.41 MB
+2025-09-01 22:23:09,190 [INFO] Depois do processamento do tema 62 Memória usada: 3101.57 MB
+2025-09-01 22:23:09,193 [INFO] Tema 63/458: Vigilância em Saúde: doenças emergentes, reemergentes e negligenciadas (id 72)
+2025-09-01 22:23:09,193 [INFO] Antes do processamento do tema 63 Memória usada: 3101.57 MB
+2025-09-01 22:23:14,028 [INFO] Depois do processamento do tema 63 Memória usada: 3103.75 MB
+2025-09-01 22:23:14,031 [INFO] Tema 64/458: Áreas de Fronteiras: integração de ações sociais e conservação de recursos naturais (id 73)
+2025-09-01 22:23:14,031 [INFO] Antes do processamento do tema 64 Memória usada: 3103.75 MB
+2025-09-01 22:23:20,586 [INFO] Depois do processamento do tema 64 Memória usada: 3103.75 MB
+2025-09-01 22:23:20,589 [INFO] Tema 65/458: Ambiental, Social e Governança (id 74)
+2025-09-01 22:23:20,589 [INFO] Antes do processamento do tema 65 Memória usada: 3103.75 MB
+2025-09-01 22:23:35,415 [INFO] Depois do processamento do tema 65 Memória usada: 3117.04 MB
+2025-09-01 22:23:35,418 [INFO] Tema 66/458: Ações Afirmativas na Educação: acesso e permanência da população negra, povos originários e comunidades tradicionais (id 75)
+2025-09-01 22:23:35,418 [INFO] Antes do processamento do tema 66 Memória usada: 3117.04 MB
+2025-09-01 22:23:47,511 [INFO] Depois do processamento do tema 66 Memória usada: 3117.70 MB
+2025-09-01 22:23:47,515 [INFO] Tema 67/458: Biotecnologia: pesquisa aplicada e geração de renda (id 76)
+2025-09-01 22:23:47,516 [INFO] Antes do processamento do tema 67 Memória usada: 3117.70 MB
+2025-09-01 22:23:54,029 [INFO] Depois do processamento do tema 67 Memória usada: 3109.57 MB
+2025-09-01 22:23:54,036 [INFO] Tema 68/458: Cidades Inteligentes, Sustentáveis e Resilientes (id 77)
+2025-09-01 22:23:54,036 [INFO] Antes do processamento do tema 68 Memória usada: 3109.57 MB
+2025-09-01 22:23:58,621 [INFO] Depois do processamento do tema 68 Memória usada: 3109.43 MB
+2025-09-01 22:23:58,624 [INFO] Tema 69/458: Combate às Iniquidades: socioeconômica, gênero, raça-etnia, sexualidade-afetividade, etarismo e capacitismo (id 78)
+2025-09-01 22:23:58,625 [INFO] Antes do processamento do tema 69 Memória usada: 3109.43 MB
+2025-09-01 22:24:14,519 [INFO] Depois do processamento do tema 69 Memória usada: 3109.55 MB
+2025-09-01 22:24:14,523 [INFO] Tema 70/458: Cooperativismo e Associativismo (id 79)
+2025-09-01 22:24:14,523 [INFO] Antes do processamento do tema 70 Memória usada: 3109.55 MB
+2025-09-01 22:24:21,436 [INFO] Depois do processamento do tema 70 Memória usada: 3114.99 MB
+2025-09-01 22:24:21,550 [INFO] Tema 71/458: Desertificação e Agricultura Regenerativa (id 80)
+2025-09-01 22:24:21,551 [INFO] Antes do processamento do tema 71 Memória usada: 3126.91 MB
+2025-09-01 22:24:27,424 [INFO] Depois do processamento do tema 71 Memória usada: 3126.07 MB
+2025-09-01 22:24:27,426 [INFO] Tema 72/458: Ecossistema de Negócios: negócios solidários, culturais e empresariais nas periferias urbanas e comunidades rurais isoladas (id 81)
+2025-09-01 22:24:27,427 [INFO] Antes do processamento do tema 72 Memória usada: 3126.07 MB
+2025-09-01 22:24:36,832 [INFO] Depois do processamento do tema 72 Memória usada: 3125.73 MB
+2025-09-01 22:24:36,836 [INFO] Tema 73/458: Educação Empreendedora: desenvolvimento de companhias empreendedoras (id 82)
+2025-09-01 22:24:36,837 [INFO] Antes do processamento do tema 73 Memória usada: 3125.73 MB
+2025-09-01 22:24:42,136 [INFO] Depois do processamento do tema 73 Memória usada: 3122.24 MB
+2025-09-01 22:24:42,140 [INFO] Tema 74/458: Educação: qualidade e equidade (id 83)
+2025-09-01 22:24:42,140 [INFO] Antes do processamento do tema 74 Memória usada: 3122.24 MB
+2025-09-01 22:25:19,875 [INFO] Depois do processamento do tema 74 Memória usada: 3121.73 MB
+2025-09-01 22:25:19,879 [INFO] Tema 75/458: Governança Territorial: instrumentos de gestão pública e social (id 84)
+2025-09-01 22:25:19,879 [INFO] Antes do processamento do tema 75 Memória usada: 3121.73 MB
+2025-09-01 22:25:35,949 [INFO] Depois do processamento do tema 75 Memória usada: 3127.07 MB
+2025-09-01 22:25:35,952 [INFO] Tema 76/458: Inclusão Socioprodutiva (id 85)
+2025-09-01 22:25:35,953 [INFO] Antes do processamento do tema 76 Memória usada: 3127.07 MB
+2025-09-01 22:25:47,700 [INFO] Depois do processamento do tema 76 Memória usada: 3126.73 MB
+2025-09-01 22:25:47,704 [INFO] Tema 77/458: Inteligência de Mercado: análise de dados e informações e criação de estratégias (id 86)
+2025-09-01 22:25:47,704 [INFO] Antes do processamento do tema 77 Memória usada: 3126.73 MB
+2025-09-01 22:25:51,338 [INFO] Depois do processamento do tema 77 Memória usada: 3127.47 MB
+2025-09-01 22:25:51,340 [INFO] Tema 78/458: Patrimônio Material, Imaterial, Artístico-Cultural e Política de Salvaguarda (id 87)
+2025-09-01 22:25:51,341 [INFO] Antes do processamento do tema 78 Memória usada: 3127.47 MB
+2025-09-01 22:25:58,522 [INFO] Depois do processamento do tema 78 Memória usada: 3127.80 MB
+2025-09-01 22:25:58,525 [INFO] Tema 79/458: Qualidade de Vida da População Negra, Povos Originários e Comunidades Tradicionais (id 88)
+2025-09-01 22:25:58,526 [INFO] Antes do processamento do tema 79 Memória usada: 3127.80 MB
+2025-09-01 22:26:05,551 [INFO] Depois do processamento do tema 79 Memória usada: 3127.65 MB
+2025-09-01 22:26:05,554 [INFO] Tema 80/458: Saúde Pública e Bem-Estar (id 89)
+2025-09-01 22:26:05,554 [INFO] Antes do processamento do tema 80 Memória usada: 3127.65 MB
+2025-09-01 22:26:12,111 [INFO] Depois do processamento do tema 80 Memória usada: 3127.85 MB
+2025-09-01 22:26:12,231 [INFO] Tema 81/458: Segurança Alimentar e Nutricional (id 90)
+2025-09-01 22:26:12,232 [INFO] Antes do processamento do tema 81 Memória usada: 3133.89 MB
+2025-09-01 22:26:18,799 [INFO] Depois do processamento do tema 81 Memória usada: 3134.57 MB
+2025-09-01 22:26:18,802 [INFO] Tema 82/458: Segurança Pública: colapso e cidades (id 91)
+2025-09-01 22:26:18,802 [INFO] Antes do processamento do tema 82 Memória usada: 3134.57 MB
+2025-09-01 22:26:25,539 [INFO] Depois do processamento do tema 82 Memória usada: 3134.38 MB
+2025-09-01 22:26:25,542 [INFO] Tema 83/458: Tecnologias para Energias Limpas e Acessíveis (id 92)
+2025-09-01 22:26:25,542 [INFO] Antes do processamento do tema 83 Memória usada: 3134.38 MB
+2025-09-01 22:26:29,252 [INFO] Depois do processamento do tema 83 Memória usada: 3133.50 MB
+2025-09-01 22:26:29,255 [INFO] Tema 84/458: Transformação Digital: conectividade, ciência de dados e inteligência artificial para inclusão social (id 93)
+2025-09-01 22:26:29,255 [INFO] Antes do processamento do tema 84 Memória usada: 3133.50 MB
+2025-09-01 22:26:35,540 [INFO] Depois do processamento do tema 84 Memória usada: 3132.54 MB
+2025-09-01 22:26:35,543 [INFO] Tema 85/458: Acessibilidade e Inclusão (id 94)
+2025-09-01 22:26:35,544 [INFO] Antes do processamento do tema 85 Memória usada: 3132.54 MB
+2025-09-01 22:26:41,439 [INFO] Depois do processamento do tema 85 Memória usada: 3133.10 MB
+2025-09-01 22:26:41,442 [INFO] Tema 86/458: Agronegócio: arranjos produtivos locais e combate à fome e à insegurança alimentar (id 95)
+2025-09-01 22:26:41,442 [INFO] Antes do processamento do tema 86 Memória usada: 3133.10 MB
+2025-09-01 22:26:48,645 [INFO] Depois do processamento do tema 86 Memória usada: 3133.62 MB
+2025-09-01 22:26:48,648 [INFO] Tema 87/458: Arte e Cultura (id 96)
+2025-09-01 22:26:48,649 [INFO] Antes do processamento do tema 87 Memória usada: 3133.62 MB
+2025-09-01 22:26:56,182 [INFO] Depois do processamento do tema 87 Memória usada: 3133.23 MB
+2025-09-01 22:26:56,185 [INFO] Tema 88/458: Biodiversidade: fonte de produtos tecnológicos para saúde, agricultura e indústria (id 97)
+2025-09-01 22:26:56,185 [INFO] Antes do processamento do tema 88 Memória usada: 3133.23 MB
+2025-09-01 22:27:06,898 [INFO] Depois do processamento do tema 88 Memória usada: 3134.06 MB
+2025-09-01 22:27:06,901 [INFO] Tema 89/458: Biomas (id 98)
+2025-09-01 22:27:06,901 [INFO] Antes do processamento do tema 89 Memória usada: 3134.06 MB
+2025-09-01 22:27:12,404 [INFO] Depois do processamento do tema 89 Memória usada: 3134.46 MB
+2025-09-01 22:27:12,407 [INFO] Tema 90/458: Biotecnologia para o Semiárido (id 99)
+2025-09-01 22:27:12,407 [INFO] Antes do processamento do tema 90 Memória usada: 3134.46 MB
+2025-09-01 22:27:20,395 [INFO] Depois do processamento do tema 90 Memória usada: 3134.46 MB
+2025-09-01 22:27:20,506 [INFO] Tema 91/458: Cidades Inteligentes, Sustentáveis e Criativas (id 100)
+2025-09-01 22:27:20,507 [INFO] Antes do processamento do tema 91 Memória usada: 3134.73 MB
+2025-09-01 22:27:26,736 [INFO] Depois do processamento do tema 91 Memória usada: 3134.78 MB
+2025-09-01 22:27:26,739 [INFO] Tema 92/458: Ciências Básicas e Sociais: suporte à inovação, tecnologia e sociedade (id 101)
+2025-09-01 22:27:26,739 [INFO] Antes do processamento do tema 92 Memória usada: 3134.78 MB
+2025-09-01 22:27:43,505 [INFO] Depois do processamento do tema 92 Memória usada: 3136.00 MB
+2025-09-01 22:27:43,509 [INFO] Tema 93/458: Economia do Mar e Aquicultura (id 102)
+2025-09-01 22:27:43,509 [INFO] Antes do processamento do tema 93 Memória usada: 3136.00 MB
+2025-09-01 22:27:47,911 [INFO] Depois do processamento do tema 93 Memória usada: 3136.56 MB
+2025-09-01 22:27:47,914 [INFO] Tema 94/458: Educação Ambiental (id 103)
+2025-09-01 22:27:47,915 [INFO] Antes do processamento do tema 94 Memória usada: 3136.56 MB
+2025-09-01 22:27:53,001 [INFO] Depois do processamento do tema 94 Memória usada: 3137.09 MB
+2025-09-01 22:27:53,004 [INFO] Tema 95/458: Educação para os Direitos Humanos (id 104)
+2025-09-01 22:27:53,005 [INFO] Antes do processamento do tema 95 Memória usada: 3137.09 MB
+2025-09-01 22:27:59,745 [INFO] Depois do processamento do tema 95 Memória usada: 3135.97 MB
+2025-09-01 22:27:59,747 [INFO] Tema 96/458: Energias Renováveis (id 105)
+2025-09-01 22:27:59,748 [INFO] Antes do processamento do tema 96 Memória usada: 3135.97 MB
+2025-09-01 22:28:03,643 [INFO] Depois do processamento do tema 96 Memória usada: 3136.55 MB
+2025-09-01 22:28:03,645 [INFO] Tema 97/458: Engenharia Aeroespacial (id 106)
+2025-09-01 22:28:03,646 [INFO] Antes do processamento do tema 97 Memória usada: 3136.55 MB
+2025-09-01 22:28:06,420 [INFO] Depois do processamento do tema 97 Memória usada: 3136.86 MB
+2025-09-01 22:28:06,424 [INFO] Tema 98/458: Gestão Ambiental e Hídrica (id 107)
+2025-09-01 22:28:06,425 [INFO] Antes do processamento do tema 98 Memória usada: 3136.86 MB
+2025-09-01 22:28:16,738 [INFO] Depois do processamento do tema 98 Memória usada: 3137.20 MB
+2025-09-01 22:28:16,741 [INFO] Tema 99/458: Governança e Gestão Pública para Interiorização da Ciência (id 108)
+2025-09-01 22:28:16,742 [INFO] Antes do processamento do tema 99 Memória usada: 3137.20 MB
+2025-09-01 22:28:30,423 [INFO] Depois do processamento do tema 99 Memória usada: 3137.21 MB
+2025-09-01 22:28:30,426 [INFO] Tema 100/458: Igualdade Racial (id 109)
+2025-09-01 22:28:30,426 [INFO] Antes do processamento do tema 100 Memória usada: 3137.21 MB
+2025-09-01 22:28:34,500 [INFO] Depois do processamento do tema 100 Memória usada: 3137.18 MB
+2025-09-01 22:28:34,616 [INFO] Tema 101/458: Logística e Mobilidade (id 110)
+2025-09-01 22:28:34,616 [INFO] Antes do processamento do tema 101 Memória usada: 3135.25 MB
+2025-09-01 22:28:39,199 [INFO] Depois do processamento do tema 101 Memória usada: 3135.66 MB
+2025-09-01 22:28:39,202 [INFO] Tema 102/458: Parcerias Público-Privadas (id 111)
+2025-09-01 22:28:39,202 [INFO] Antes do processamento do tema 102 Memória usada: 3135.66 MB
+2025-09-01 22:28:44,619 [INFO] Depois do processamento do tema 102 Memória usada: 3138.65 MB
+2025-09-01 22:28:44,623 [INFO] Tema 103/458: Pesquisa e Inovação: produtos e tecnologias inclusivas (id 112)
+2025-09-01 22:28:44,623 [INFO] Antes do processamento do tema 103 Memória usada: 3138.65 MB
+2025-09-01 22:28:51,677 [INFO] Depois do processamento do tema 103 Memória usada: 3138.64 MB
+2025-09-01 22:28:51,680 [INFO] Tema 104/458: Pós-Graduação: expansão e interiorização (id 113)
+2025-09-01 22:28:51,680 [INFO] Antes do processamento do tema 104 Memória usada: 3138.64 MB
+2025-09-01 22:29:04,051 [INFO] Depois do processamento do tema 104 Memória usada: 3138.89 MB
+2025-09-01 22:29:04,054 [INFO] Tema 105/458: Saúde Pública: endemias, saúde mental, doenças e vigilância sanitária (id 114)
+2025-09-01 22:29:04,055 [INFO] Antes do processamento do tema 105 Memória usada: 3138.89 MB
+2025-09-01 22:29:19,005 [INFO] Depois do processamento do tema 105 Memória usada: 3139.15 MB
+2025-09-01 22:29:19,008 [INFO] Tema 106/458: Tecnologia Democrática (id 115)
+2025-09-01 22:29:19,009 [INFO] Antes do processamento do tema 106 Memória usada: 3139.15 MB
+2025-09-01 22:29:24,744 [INFO] Depois do processamento do tema 106 Memória usada: 3140.89 MB
+2025-09-01 22:29:24,747 [INFO] Tema 107/458: Tecnologias da Informação e Comunicação: inteligência artificial, cibersegurança e tecnologias educacionais (id 116)
+2025-09-01 22:29:24,747 [INFO] Antes do processamento do tema 107 Memória usada: 3140.89 MB
+2025-09-01 22:29:31,819 [INFO] Depois do processamento do tema 107 Memória usada: 3144.89 MB
+2025-09-01 22:29:31,824 [INFO] Tema 108/458: Turismo Sustentável e Inclusivo (id 117)
+2025-09-01 22:29:31,825 [INFO] Antes do processamento do tema 108 Memória usada: 3144.89 MB
+2025-09-01 22:29:36,564 [INFO] Depois do processamento do tema 108 Memória usada: 3144.75 MB
+2025-09-01 22:29:36,567 [INFO] Tema 109/458: Violência contra Mulher (id 118)
+2025-09-01 22:29:36,567 [INFO] Antes do processamento do tema 109 Memória usada: 3144.75 MB
+2025-09-01 22:29:43,930 [INFO] Depois do processamento do tema 109 Memória usada: 3144.62 MB
+2025-09-01 22:29:43,933 [INFO] Tema 110/458: Agricultura Sustentável e Inovadora: integração entre agricultura familiar, agronegócio, tecnologia e economia criativa (id 119)
+2025-09-01 22:29:43,934 [INFO] Antes do processamento do tema 110 Memória usada: 3144.62 MB
+2025-09-01 22:29:48,426 [INFO] Depois do processamento do tema 110 Memória usada: 3144.37 MB
+2025-09-01 22:29:48,537 [INFO] Tema 111/458: Ambiental, Social e Governança nos Setores Público e Privado: diversidade, economia circular, métricas de impacto e capacitação
+ (id 120)
+2025-09-01 22:29:48,538 [INFO] Antes do processamento do tema 111 Memória usada: 3144.91 MB
+2025-09-01 22:30:07,977 [INFO] Depois do processamento do tema 111 Memória usada: 3140.79 MB
+2025-09-01 22:30:07,981 [INFO] Tema 112/458: Biotecnologia e Sociobiodiversidade do Cerrado: economia verde, bioinsumos, conhecimento tradicional e aplicações em saúde e segurança alimentar (id 121)
+2025-09-01 22:30:07,981 [INFO] Antes do processamento do tema 112 Memória usada: 3140.79 MB
+2025-09-01 22:30:14,957 [INFO] Depois do processamento do tema 112 Memória usada: 3141.14 MB
+2025-09-01 22:30:14,961 [INFO] Tema 113/458: Cidades Inteligentes, Humanas e Sustentáveis: inovação, inclusão e patrimônio cultural (id 122)
+2025-09-01 22:30:14,962 [INFO] Antes do processamento do tema 113 Memória usada: 3141.14 MB
+2025-09-01 22:30:21,145 [INFO] Depois do processamento do tema 113 Memória usada: 3141.25 MB
+2025-09-01 22:30:21,148 [INFO] Tema 114/458: Compras Públicas: inovadoras e sustentáveis (id 123)
+2025-09-01 22:30:21,149 [INFO] Antes do processamento do tema 114 Memória usada: 3141.25 MB
+2025-09-01 22:30:29,447 [INFO] Depois do processamento do tema 114 Memória usada: 3141.25 MB
+2025-09-01 22:30:29,451 [INFO] Tema 115/458: Desigualdades Estruturais e Interseccionais (id 124)
+2025-09-01 22:30:29,451 [INFO] Antes do processamento do tema 115 Memória usada: 3141.25 MB
+2025-09-01 22:30:33,035 [INFO] Depois do processamento do tema 115 Memória usada: 3145.25 MB
+2025-09-01 22:30:33,039 [INFO] Tema 116/458: Economia Criativa Inclusiva: descentralização territorial, diversidade cultural e redução de desigualdades (id 125)
+2025-09-01 22:30:33,039 [INFO] Antes do processamento do tema 116 Memória usada: 3145.25 MB
+2025-09-01 22:30:41,099 [INFO] Depois do processamento do tema 116 Memória usada: 3145.24 MB
+2025-09-01 22:30:41,102 [INFO] Tema 117/458: Economia Digital: infraestrutura inclusiva, inteligência de dados, governança e redes de cooperação (id 126)
+2025-09-01 22:30:41,103 [INFO] Antes do processamento do tema 117 Memória usada: 3145.24 MB
+2025-09-01 22:30:48,938 [INFO] Depois do processamento do tema 117 Memória usada: 3145.23 MB
+2025-09-01 22:30:48,941 [INFO] Tema 118/458: Ecossistema de Inovação: fortalecimento, governança colaborativa e impacto socioeconômico (id 127)
+2025-09-01 22:30:48,942 [INFO] Antes do processamento do tema 118 Memória usada: 3145.23 MB
+2025-09-01 22:30:57,426 [INFO] Depois do processamento do tema 118 Memória usada: 3145.48 MB
+2025-09-01 22:30:57,429 [INFO] Tema 119/458: Educação Transformadora: redução de desigualdades e inovação pedagógica (id 128)
+2025-09-01 22:30:57,429 [INFO] Antes do processamento do tema 119 Memória usada: 3145.48 MB
+2025-09-01 22:31:15,563 [INFO] Depois do processamento do tema 119 Memória usada: 3145.49 MB
+2025-09-01 22:31:15,566 [INFO] Tema 120/458: Eficiência Energética: tecnologias, sustentabilidade e políticas de incentivo (id 129)
+2025-09-01 22:31:15,568 [INFO] Antes do processamento do tema 120 Memória usada: 3145.49 MB
+2025-09-01 22:31:20,148 [INFO] Depois do processamento do tema 120 Memória usada: 3145.48 MB
+2025-09-01 22:31:20,263 [INFO] Tema 121/458: Estado Empreendedor: inovação pública, governança multinível e políticas públicas baseadas em evidências (id 130)
+2025-09-01 22:31:20,264 [INFO] Antes do processamento do tema 121 Memória usada: 3150.04 MB
+2025-09-01 22:31:37,362 [INFO] Depois do processamento do tema 121 Memória usada: 3145.96 MB
+2025-09-01 22:31:37,365 [INFO] Tema 122/458: Governo Digital: ambientes de inovação, dados abertos, contratações ágeis e capacitação de servidores (id 131)
+2025-09-01 22:31:37,365 [INFO] Antes do processamento do tema 122 Memória usada: 3145.96 MB
+2025-09-01 22:31:44,266 [INFO] Depois do processamento do tema 122 Memória usada: 3146.07 MB
+2025-09-01 22:31:44,269 [INFO] Tema 123/458: Mobilidade Sustentável e Logística: infraestrutura, acessibilidade universal, intermodalidade e governança metropolitana (id 132)
+2025-09-01 22:31:44,270 [INFO] Antes do processamento do tema 123 Memória usada: 3146.07 MB
+2025-09-01 22:31:48,744 [INFO] Depois do processamento do tema 123 Memória usada: 3146.05 MB
+2025-09-01 22:31:48,747 [INFO] Tema 124/458: Produtividade e Inovação: serviços avançados, economia social e digitalização (id 133)
+2025-09-01 22:31:48,747 [INFO] Antes do processamento do tema 124 Memória usada: 3146.05 MB
+2025-09-01 22:31:56,856 [INFO] Depois do processamento do tema 124 Memória usada: 3146.05 MB
+2025-09-01 22:31:56,859 [INFO] Tema 125/458: Saneamento Básico e Economia Circular: gestão integrada de resíduos, inclusão produtiva e tecnologias sociais (id 134)
+2025-09-01 22:31:56,859 [INFO] Antes do processamento do tema 125 Memória usada: 3146.05 MB
+2025-09-01 22:32:00,531 [INFO] Depois do processamento do tema 125 Memória usada: 3146.05 MB
+2025-09-01 22:32:00,534 [INFO] Tema 126/458: Saúde e Qualidade de Vida: regionalização do Sistema Único de Saúde, determinantes sociais, inovação e saúde digital (id 135)
+2025-09-01 22:32:00,535 [INFO] Antes do processamento do tema 126 Memória usada: 3146.05 MB
+2025-09-01 22:32:04,864 [INFO] Depois do processamento do tema 126 Memória usada: 3146.04 MB
+2025-09-01 22:32:04,868 [INFO] Tema 127/458: Tecnologias da Informação e Comunicação: soberania digital, segurança cibernética, software livre e inovação aberta (id 136)
+2025-09-01 22:32:04,868 [INFO] Antes do processamento do tema 127 Memória usada: 3146.04 MB
+2025-09-01 22:32:14,464 [INFO] Depois do processamento do tema 127 Memória usada: 3146.04 MB
+2025-09-01 22:32:14,467 [INFO] Tema 128/458: Turismo, Cultura e Diversidade: patrimônio da humanidade, turismo cívico, economia da cultura e experiências criativas (id 137)
+2025-09-01 22:32:14,468 [INFO] Antes do processamento do tema 128 Memória usada: 3146.04 MB
+2025-09-01 22:32:18,038 [INFO] Depois do processamento do tema 128 Memória usada: 3150.07 MB
+2025-09-01 22:32:18,042 [INFO] Tema 129/458: Agricultura Sustentável (id 138)
+2025-09-01 22:32:18,042 [INFO] Antes do processamento do tema 129 Memória usada: 3150.07 MB
+2025-09-01 22:32:22,979 [INFO] Depois do processamento do tema 129 Memória usada: 3149.86 MB
+2025-09-01 22:32:22,981 [INFO] Tema 130/458: Agronegócio: empresarial, familiar e agrotech (id 139)
+2025-09-01 22:32:22,982 [INFO] Antes do processamento do tema 130 Memória usada: 3149.86 MB
+2025-09-01 22:32:26,757 [INFO] Depois do processamento do tema 130 Memória usada: 3149.66 MB
+2025-09-01 22:32:26,877 [INFO] Tema 131/458: Bioeconomia (id 140)
+2025-09-01 22:32:26,878 [INFO] Antes do processamento do tema 131 Memória usada: 3149.14 MB
+2025-09-01 22:32:31,488 [INFO] Depois do processamento do tema 131 Memória usada: 3145.34 MB
+2025-09-01 22:32:31,492 [INFO] Tema 132/458: Cidades Inteligentes: serviços orientados ao usuário, mobilidade e urbanismo (id 141)
+2025-09-01 22:32:31,492 [INFO] Antes do processamento do tema 132 Memória usada: 3145.34 MB
+2025-09-01 22:32:35,455 [INFO] Depois do processamento do tema 132 Memória usada: 3145.46 MB
+2025-09-01 22:32:35,459 [INFO] Tema 133/458: Energias Renováveis e Transição Energética (id 142)
+2025-09-01 22:32:35,459 [INFO] Antes do processamento do tema 133 Memória usada: 3145.46 MB
+2025-09-01 22:32:39,263 [INFO] Depois do processamento do tema 133 Memória usada: 3145.47 MB
+2025-09-01 22:32:39,265 [INFO] Tema 134/458: Gestão Pública Inteligente (id 143)
+2025-09-01 22:32:39,266 [INFO] Antes do processamento do tema 134 Memória usada: 3145.47 MB
+2025-09-01 22:32:49,186 [INFO] Depois do processamento do tema 134 Memória usada: 3145.59 MB
+2025-09-01 22:32:49,190 [INFO] Tema 135/458: Logística: importação e exportação (id 144)
+2025-09-01 22:32:49,191 [INFO] Antes do processamento do tema 135 Memória usada: 3145.59 MB
+2025-09-01 22:32:52,011 [INFO] Depois do processamento do tema 135 Memória usada: 3145.58 MB
+2025-09-01 22:32:52,014 [INFO] Tema 136/458: Materiais Avançados: indústria, mercado e descarbonização (id 145)
+2025-09-01 22:32:52,015 [INFO] Antes do processamento do tema 136 Memória usada: 3145.58 MB
+2025-09-01 22:32:54,764 [INFO] Depois do processamento do tema 136 Memória usada: 3145.70 MB
+2025-09-01 22:32:54,767 [INFO] Tema 137/458: Novas Economias: criativa, verde, azul e do turismo (id 146)
+2025-09-01 22:32:54,768 [INFO] Antes do processamento do tema 137 Memória usada: 3145.70 MB
+2025-09-01 22:32:57,738 [INFO] Depois do processamento do tema 137 Memória usada: 3145.68 MB
+2025-09-01 22:32:57,743 [INFO] Tema 138/458: Petróleo, Gás, Naval e Energia: descarbonização e ambiental, social e governança (id 147)
+2025-09-01 22:32:57,743 [INFO] Antes do processamento do tema 138 Memória usada: 3145.68 MB
+2025-09-01 22:33:02,214 [INFO] Depois do processamento do tema 138 Memória usada: 3145.68 MB
+2025-09-01 22:33:02,217 [INFO] Tema 139/458: Políticas Sociais: inclusão, diversidade, equidade e acessibilidade (id 148)
+2025-09-01 22:33:02,218 [INFO] Antes do processamento do tema 139 Memória usada: 3145.68 MB
+2025-09-01 22:33:08,338 [INFO] Depois do processamento do tema 139 Memória usada: 3145.56 MB
+2025-09-01 22:33:08,341 [INFO] Tema 140/458: Saúde Emocional (id 149)
+2025-09-01 22:33:08,342 [INFO] Antes do processamento do tema 140 Memória usada: 3145.56 MB
+2025-09-01 22:33:11,462 [INFO] Depois do processamento do tema 140 Memória usada: 3145.56 MB
+2025-09-01 22:33:11,568 [INFO] Tema 141/458: Saúde Pública: humanizada, acessível e informatizada (id 150)
+2025-09-01 22:33:11,569 [INFO] Antes do processamento do tema 141 Memória usada: 3133.78 MB
+2025-09-01 22:33:15,612 [INFO] Depois do processamento do tema 141 Memória usada: 3133.79 MB
+2025-09-01 22:33:15,615 [INFO] Tema 142/458: Saúde Única: humana, animal e ambiental (id 151)
+2025-09-01 22:33:15,615 [INFO] Antes do processamento do tema 142 Memória usada: 3133.79 MB
+2025-09-01 22:33:19,209 [INFO] Depois do processamento do tema 142 Memória usada: 3133.79 MB
+2025-09-01 22:33:19,212 [INFO] Tema 143/458: Segurança Pública e Direitos Humanos (id 152)
+2025-09-01 22:33:19,213 [INFO] Antes do processamento do tema 143 Memória usada: 3133.79 MB
+2025-09-01 22:33:26,404 [INFO] Depois do processamento do tema 143 Memória usada: 3133.77 MB
+2025-09-01 22:33:26,408 [INFO] Tema 144/458: Tecnologias Avançadas na Cadeia Produtiva de Rochas Ornamentais: agregação de valor, descarbonização e ambiental, social e governança (id 153)
+2025-09-01 22:33:26,408 [INFO] Antes do processamento do tema 144 Memória usada: 3133.77 MB
+2025-09-01 22:33:30,901 [INFO] Depois do processamento do tema 144 Memória usada: 3133.77 MB
+2025-09-01 22:33:30,905 [INFO] Tema 145/458: Tecnologias Sociais (id 154)
+2025-09-01 22:33:30,905 [INFO] Antes do processamento do tema 145 Memória usada: 3133.77 MB
+2025-09-01 22:33:35,497 [INFO] Depois do processamento do tema 145 Memória usada: 3133.76 MB
+2025-09-01 22:33:35,501 [INFO] Tema 146/458: Tecnologias da Informação e Comunicação (id 155)
+2025-09-01 22:33:35,501 [INFO] Antes do processamento do tema 146 Memória usada: 3133.76 MB
+2025-09-01 22:33:40,584 [INFO] Depois do processamento do tema 146 Memória usada: 3133.76 MB
+2025-09-01 22:33:40,587 [INFO] Tema 147/458: Tecnologias da Informação e Comunicação para Educação (id 156)
+2025-09-01 22:33:40,588 [INFO] Antes do processamento do tema 147 Memória usada: 3133.76 MB
+2025-09-01 22:33:51,458 [INFO] Depois do processamento do tema 147 Memória usada: 3133.76 MB
+2025-09-01 22:33:51,462 [INFO] Tema 148/458: Agricultura Familiar Sustentável: fortalecimento da cadeia produtiva (id 157)
+2025-09-01 22:33:51,462 [INFO] Antes do processamento do tema 148 Memória usada: 3133.76 MB
+2025-09-01 22:33:58,322 [INFO] Depois do processamento do tema 148 Memória usada: 3133.77 MB
+2025-09-01 22:33:58,325 [INFO] Tema 149/458: Agronegócio: desenvolvimento de tecnologias avançadas (id 158)
+2025-09-01 22:33:58,326 [INFO] Antes do processamento do tema 149 Memória usada: 3133.77 MB
+2025-09-01 22:34:03,189 [INFO] Depois do processamento do tema 149 Memória usada: 3133.82 MB
+2025-09-01 22:34:03,192 [INFO] Tema 150/458: Arte e Cultura (id 159)
+2025-09-01 22:34:03,193 [INFO] Antes do processamento do tema 150 Memória usada: 3133.82 MB
+2025-09-01 22:34:08,622 [INFO] Depois do processamento do tema 150 Memória usada: 3133.63 MB
+2025-09-01 22:34:08,730 [INFO] Tema 151/458: Biodiversidade e Bioprodutos (id 160)
+2025-09-01 22:34:08,731 [INFO] Antes do processamento do tema 151 Memória usada: 3132.27 MB
+2025-09-01 22:34:24,017 [INFO] Depois do processamento do tema 151 Memória usada: 3132.72 MB
+2025-09-01 22:34:24,020 [INFO] Tema 152/458: Bioinsumos e Bioenergia: desenvolvimento de soluções (id 161)
+2025-09-01 22:34:24,020 [INFO] Antes do processamento do tema 152 Memória usada: 3132.72 MB
+2025-09-01 22:34:29,612 [INFO] Depois do processamento do tema 152 Memória usada: 3133.50 MB
+2025-09-01 22:34:29,615 [INFO] Tema 153/458: Conservação Ambiental: segurança hídrica no cerrado, mitigação de mudanças climáticas e conhecimento tradicional (id 162)
+2025-09-01 22:34:29,615 [INFO] Antes do processamento do tema 153 Memória usada: 3133.50 MB
+2025-09-01 22:34:39,419 [INFO] Depois do processamento do tema 153 Memória usada: 3133.48 MB
+2025-09-01 22:34:39,422 [INFO] Tema 154/458: Economia Criativa e Circular (id 163)
+2025-09-01 22:34:39,422 [INFO] Antes do processamento do tema 154 Memória usada: 3133.48 MB
+2025-09-01 22:34:45,054 [INFO] Depois do processamento do tema 154 Memória usada: 3133.57 MB
+2025-09-01 22:34:45,057 [INFO] Tema 155/458: Educação: tecnologia e inovação (id 164)
+2025-09-01 22:34:45,057 [INFO] Antes do processamento do tema 155 Memória usada: 3133.57 MB
+2025-09-01 22:34:58,525 [INFO] Depois do processamento do tema 155 Memória usada: 3137.57 MB
+2025-09-01 22:34:58,528 [INFO] Tema 156/458: Indústria: gestão de pesquisa e desenvolvimento (id 165)
+2025-09-01 22:34:58,529 [INFO] Antes do processamento do tema 156 Memória usada: 3137.57 MB
+2025-09-01 22:35:03,644 [INFO] Depois do processamento do tema 156 Memória usada: 3137.54 MB
+2025-09-01 22:35:03,647 [INFO] Tema 157/458: Melhoramento Genético: matrizes para pecuária (id 166)
+2025-09-01 22:35:03,648 [INFO] Antes do processamento do tema 157 Memória usada: 3137.54 MB
+2025-09-01 22:35:07,369 [INFO] Depois do processamento do tema 157 Memória usada: 3137.41 MB
+2025-09-01 22:35:07,374 [INFO] Tema 158/458: Novas Tecnologias: indústria, infraestrutura e energia (id 167)
+2025-09-01 22:35:07,375 [INFO] Antes do processamento do tema 158 Memória usada: 3137.41 MB
+2025-09-01 22:35:10,622 [INFO] Depois do processamento do tema 158 Memória usada: 3137.41 MB
+2025-09-01 22:35:10,626 [INFO] Tema 159/458: Povos Tradicionais: conhecimentos, experiências e produtos (id 168)
+2025-09-01 22:35:10,627 [INFO] Antes do processamento do tema 159 Memória usada: 3137.41 MB
+2025-09-01 22:35:20,165 [INFO] Depois do processamento do tema 159 Memória usada: 3137.41 MB
+2025-09-01 22:35:20,167 [INFO] Tema 160/458: Saúde: efetividade das práticas integrativas e complementares em saúde (id 169)
+2025-09-01 22:35:20,168 [INFO] Antes do processamento do tema 160 Memória usada: 3137.41 MB
+2025-09-01 22:35:23,254 [INFO] Depois do processamento do tema 160 Memória usada: 3137.40 MB
+2025-09-01 22:35:23,375 [INFO] Tema 161/458: Saúde: genética para prevenção de comorbidades (id 170)
+2025-09-01 22:35:23,376 [INFO] Antes do processamento do tema 161 Memória usada: 3130.05 MB
+2025-09-01 22:35:27,294 [INFO] Depois do processamento do tema 161 Memória usada: 3130.27 MB
+2025-09-01 22:35:27,298 [INFO] Tema 162/458: Saúde: gestão, tecnologias e integração de informações (id 171)
+2025-09-01 22:35:27,299 [INFO] Antes do processamento do tema 162 Memória usada: 3130.27 MB
+2025-09-01 22:35:31,050 [INFO] Depois do processamento do tema 162 Memória usada: 3130.14 MB
+2025-09-01 22:35:31,054 [INFO] Tema 163/458: Segurança Pública: tomada de decisão baseada em evidência (id 172)
+2025-09-01 22:35:31,054 [INFO] Antes do processamento do tema 163 Memória usada: 3130.14 MB
+2025-09-01 22:35:34,180 [INFO] Depois do processamento do tema 163 Memória usada: 3129.66 MB
+2025-09-01 22:35:34,183 [INFO] Tema 164/458: Agroindústria e Desenvolvimento Sustentável (id 173)
+2025-09-01 22:35:34,184 [INFO] Antes do processamento do tema 164 Memória usada: 3129.66 MB
+2025-09-01 22:35:38,114 [INFO] Depois do processamento do tema 164 Memória usada: 3129.68 MB
+2025-09-01 22:35:38,117 [INFO] Tema 165/458: Bioeconomia: biotecnologia e aproveitamento de recursos naturais (id 174)
+2025-09-01 22:35:38,118 [INFO] Antes do processamento do tema 165 Memória usada: 3129.68 MB
+2025-09-01 22:35:42,294 [INFO] Depois do processamento do tema 165 Memória usada: 3129.68 MB
+2025-09-01 22:35:42,297 [INFO] Tema 166/458: Cadeias Produtivas Prioritárias (id 175)
+2025-09-01 22:35:42,298 [INFO] Antes do processamento do tema 166 Memória usada: 3129.68 MB
+2025-09-01 22:35:46,454 [INFO] Depois do processamento do tema 166 Memória usada: 3129.68 MB
+2025-09-01 22:35:46,457 [INFO] Tema 167/458: Economia Criativa e Solidária (id 177)
+2025-09-01 22:35:46,458 [INFO] Antes do processamento do tema 167 Memória usada: 3129.68 MB
+2025-09-01 22:35:50,635 [INFO] Depois do processamento do tema 167 Memória usada: 3129.64 MB
+2025-09-01 22:35:50,638 [INFO] Tema 168/458: Formação de Professores: educação básica, técnica e profissional (id 178)
+2025-09-01 22:35:50,639 [INFO] Antes do processamento do tema 168 Memória usada: 3129.64 MB
+2025-09-01 22:35:59,469 [INFO] Depois do processamento do tema 168 Memória usada: 3129.64 MB
+2025-09-01 22:35:59,473 [INFO] Tema 169/458: Formação de Servidores na Implementação de Políticas Públicas (id 179)
+2025-09-01 22:35:59,473 [INFO] Antes do processamento do tema 169 Memória usada: 3129.64 MB
+2025-09-01 22:36:03,267 [INFO] Depois do processamento do tema 169 Memória usada: 3129.89 MB
+2025-09-01 22:36:03,270 [INFO] Tema 170/458: Governança das Instituições Públicas (id 180)
+2025-09-01 22:36:03,271 [INFO] Antes do processamento do tema 170 Memória usada: 3129.89 MB
+2025-09-01 22:36:08,943 [INFO] Depois do processamento do tema 170 Memória usada: 3129.89 MB
+2025-09-01 22:36:09,047 [INFO] Tema 171/458: Inovação, Tecnologia e Empreendedorismo (id 181)
+2025-09-01 22:36:09,049 [INFO] Antes do processamento do tema 171 Memória usada: 3128.52 MB
+2025-09-01 22:36:12,617 [INFO] Depois do processamento do tema 171 Memória usada: 3124.86 MB
+2025-09-01 22:36:12,620 [INFO] Tema 172/458: Popularização da Ciência (id 182)
+2025-09-01 22:36:12,621 [INFO] Antes do processamento do tema 172 Memória usada: 3124.86 MB
+2025-09-01 22:36:17,013 [INFO] Depois do processamento do tema 172 Memória usada: 3124.99 MB
+2025-09-01 22:36:17,015 [INFO] Tema 173/458: Saneamento Básico: pesquisa e inovação (id 183)
+2025-09-01 22:36:17,016 [INFO] Antes do processamento do tema 173 Memória usada: 3124.99 MB
+2025-09-01 22:36:19,933 [INFO] Depois do processamento do tema 173 Memória usada: 3125.22 MB
+2025-09-01 22:36:19,935 [INFO] Tema 174/458: Sustentabilidade Socioeconômica (id 184)
+2025-09-01 22:36:19,936 [INFO] Antes do processamento do tema 174 Memória usada: 3125.22 MB
+2025-09-01 22:36:24,230 [INFO] Depois do processamento do tema 174 Memória usada: 3125.22 MB
+2025-09-01 22:36:24,233 [INFO] Tema 175/458: Turismo e Cultura de Base Comunitária (id 185)
+2025-09-01 22:36:24,234 [INFO] Antes do processamento do tema 175 Memória usada: 3125.22 MB
+2025-09-01 22:36:27,948 [INFO] Depois do processamento do tema 175 Memória usada: 3125.21 MB
+2025-09-01 22:36:27,951 [INFO] Tema 176/458: Agricultura de Precisão (id 186)
+2025-09-01 22:36:27,952 [INFO] Antes do processamento do tema 176 Memória usada: 3125.21 MB
+2025-09-01 22:36:31,792 [INFO] Depois do processamento do tema 176 Memória usada: 3125.20 MB
+2025-09-01 22:36:31,796 [INFO] Tema 177/458: Ambiental, Social e Governança (id 187)
+2025-09-01 22:36:31,797 [INFO] Antes do processamento do tema 177 Memória usada: 3125.20 MB
+2025-09-01 22:36:38,262 [INFO] Depois do processamento do tema 177 Memória usada: 3125.20 MB
+2025-09-01 22:36:38,265 [INFO] Tema 178/458: Articulação da Quádrupla Hélice: academia, sociedade e setores público e privado (id 188)
+2025-09-01 22:36:38,266 [INFO] Antes do processamento do tema 178 Memória usada: 3125.20 MB
+2025-09-01 22:36:47,029 [INFO] Depois do processamento do tema 178 Memória usada: 3125.19 MB
+2025-09-01 22:36:47,032 [INFO] Tema 179/458: Bem-Estar, Saúde e Mercado de Trabalho (id 189)
+2025-09-01 22:36:47,033 [INFO] Antes do processamento do tema 179 Memória usada: 3125.19 MB
+2025-09-01 22:36:50,602 [INFO] Depois do processamento do tema 179 Memória usada: 3125.05 MB
+2025-09-01 22:36:50,605 [INFO] Tema 180/458: Bioeconomia, Biodiversidade, Ecologia e Comunidades Originárias (id 190)
+2025-09-01 22:36:50,605 [INFO] Antes do processamento do tema 180 Memória usada: 3125.05 MB
+2025-09-01 22:36:56,940 [INFO] Depois do processamento do tema 180 Memória usada: 3129.05 MB
+2025-09-01 22:36:57,053 [INFO] Tema 181/458: Biotecnologia: bioprospecção de recursos naturais e resíduos (id 191)
+2025-09-01 22:36:57,054 [INFO] Antes do processamento do tema 181 Memória usada: 3129.57 MB
+2025-09-01 22:37:01,444 [INFO] Depois do processamento do tema 181 Memória usada: 3129.43 MB
+2025-09-01 22:37:01,446 [INFO] Tema 182/458: Cidades Inteligentes: contexto regional, logística e engenharias (id 192)
+2025-09-01 22:37:01,447 [INFO] Antes do processamento do tema 182 Memória usada: 3129.43 MB
+2025-09-01 22:37:04,693 [INFO] Depois do processamento do tema 182 Memória usada: 3129.43 MB
+2025-09-01 22:37:04,696 [INFO] Tema 183/458: Ciências Básicas: promoção de desenvolvimento sustentável (id 193)
+2025-09-01 22:37:04,697 [INFO] Antes do processamento do tema 183 Memória usada: 3129.43 MB
+2025-09-01 22:37:10,793 [INFO] Depois do processamento do tema 183 Memória usada: 3129.66 MB
+2025-09-01 22:37:10,796 [INFO] Tema 184/458: Economia Pública: inovação e desenvolvimento sustentável (id 194)
+2025-09-01 22:37:10,796 [INFO] Antes do processamento do tema 184 Memória usada: 3129.66 MB
+2025-09-01 22:37:15,970 [INFO] Depois do processamento do tema 184 Memória usada: 3129.54 MB
+2025-09-01 22:37:15,974 [INFO] Tema 185/458: Educação: gestão educacional e metodologia de ensino (id 195)
+2025-09-01 22:37:15,974 [INFO] Antes do processamento do tema 185 Memória usada: 3129.54 MB
+2025-09-01 22:37:30,730 [INFO] Depois do processamento do tema 185 Memória usada: 3129.54 MB
+2025-09-01 22:37:30,733 [INFO] Tema 186/458: Estratégias de Industrialização e Agroindustrialização (id 196)
+2025-09-01 22:37:30,734 [INFO] Antes do processamento do tema 186 Memória usada: 3129.54 MB
+2025-09-01 22:37:34,122 [INFO] Depois do processamento do tema 186 Memória usada: 3129.72 MB
+2025-09-01 22:37:34,126 [INFO] Tema 187/458: Transformação Digital e os Novos Postos de Trabalho (id 197)
+2025-09-01 22:37:34,127 [INFO] Antes do processamento do tema 187 Memória usada: 3129.72 MB
+2025-09-01 22:37:37,510 [INFO] Depois do processamento do tema 187 Memória usada: 3129.64 MB
+2025-09-01 22:37:37,513 [INFO] Tema 188/458: Agroindústria: processamento e valor agregado (id 198)
+2025-09-01 22:37:37,514 [INFO] Antes do processamento do tema 188 Memória usada: 3129.64 MB
+2025-09-01 22:37:43,001 [INFO] Depois do processamento do tema 188 Memória usada: 3129.65 MB
+2025-09-01 22:37:43,004 [INFO] Tema 189/458: Agrárias: agronegócio, produção animal e vegetal e produção familiar (id 199)
+2025-09-01 22:37:43,005 [INFO] Antes do processamento do tema 189 Memória usada: 3129.65 MB
+2025-09-01 22:37:50,883 [INFO] Depois do processamento do tema 189 Memória usada: 3129.64 MB
+2025-09-01 22:37:50,886 [INFO] Tema 190/458: Biodiversidade e Recursos Naturais: tecnologias e desenvolvimento econômico sustentável (id 200)
+2025-09-01 22:37:50,887 [INFO] Antes do processamento do tema 190 Memória usada: 3129.64 MB
+2025-09-01 22:37:56,685 [INFO] Depois do processamento do tema 190 Memória usada: 3129.64 MB
+2025-09-01 22:37:56,791 [INFO] Tema 191/458: Bioeconomia: sociobiodiversidade, bioprodutos, biofábricas e cadeias produtivas (id 201)
+2025-09-01 22:37:56,791 [INFO] Antes do processamento do tema 191 Memória usada: 3130.48 MB
+2025-09-01 22:38:02,820 [INFO] Depois do processamento do tema 191 Memória usada: 3130.86 MB
+2025-09-01 22:38:02,822 [INFO] Tema 192/458: Biomas: reconhecimento como diferencial competitivo (id 202)
+2025-09-01 22:38:02,823 [INFO] Antes do processamento do tema 192 Memória usada: 3130.86 MB
+2025-09-01 22:38:05,920 [INFO] Depois do processamento do tema 192 Memória usada: 3126.86 MB
+2025-09-01 22:38:05,923 [INFO] Tema 193/458: Biotecnologia e Engenharia de Transformação (id 203)
+2025-09-01 22:38:05,923 [INFO] Antes do processamento do tema 193 Memória usada: 3126.86 MB
+2025-09-01 22:38:09,297 [INFO] Depois do processamento do tema 193 Memória usada: 3126.86 MB
+2025-09-01 22:38:09,301 [INFO] Tema 194/458: Cidades Humanas, Inteligentes e Sustentáveis (id 204)
+2025-09-01 22:38:09,301 [INFO] Antes do processamento do tema 194 Memória usada: 3126.86 MB
+2025-09-01 22:38:14,094 [INFO] Depois do processamento do tema 194 Memória usada: 3126.86 MB
+2025-09-01 22:38:14,097 [INFO] Tema 195/458: Educação Inovadora: uso de metodologias ativas e integradas na formação de profissionais (id 206)
+2025-09-01 22:38:14,098 [INFO] Antes do processamento do tema 195 Memória usada: 3126.86 MB
+2025-09-01 22:38:22,085 [INFO] Depois do processamento do tema 195 Memória usada: 3131.04 MB
+2025-09-01 22:38:22,088 [INFO] Tema 196/458: Empreendimentos Inovadores: impacto socioambiental e sistema econômico inclusivo, equitativo e regenerativo (id 207)
+2025-09-01 22:38:22,089 [INFO] Antes do processamento do tema 196 Memória usada: 3131.04 MB
+2025-09-01 22:38:25,708 [INFO] Depois do processamento do tema 196 Memória usada: 3131.00 MB
+2025-09-01 22:38:25,713 [INFO] Tema 197/458: Gestão Pública: inovação e estratégia (id 208)
+2025-09-01 22:38:25,714 [INFO] Antes do processamento do tema 197 Memória usada: 3131.00 MB
+2025-09-01 22:38:32,392 [INFO] Depois do processamento do tema 197 Memória usada: 3130.87 MB
+2025-09-01 22:38:32,395 [INFO] Tema 198/458: Mudanças Climáticas: estudos de alterações, redução de gases de efeito estufa e práticas produtivas sustentáveis (id 209)
+2025-09-01 22:38:32,396 [INFO] Antes do processamento do tema 198 Memória usada: 3130.87 MB
+2025-09-01 22:38:36,467 [INFO] Depois do processamento do tema 198 Memória usada: 3126.87 MB
+2025-09-01 22:38:36,470 [INFO] Tema 199/458: Patrimonialização e Integração Territorial: fronteira, povos originários, cultura e turismo (id 210)
+2025-09-01 22:38:36,471 [INFO] Antes do processamento do tema 199 Memória usada: 3126.87 MB
+2025-09-01 22:38:40,555 [INFO] Depois do processamento do tema 199 Memória usada: 3126.86 MB
+2025-09-01 22:38:40,558 [INFO] Tema 200/458: Políticas Públicas: formulação, avaliação e monitoramento (id 211)
+2025-09-01 22:38:40,559 [INFO] Antes do processamento do tema 200 Memória usada: 3126.86 MB
+2025-09-01 22:38:49,830 [INFO] Depois do processamento do tema 200 Memória usada: 3126.86 MB
+2025-09-01 22:38:49,941 [INFO] Tema 201/458: Povos Originários e Comunidades Tradicionais: desenvolvimento econômico e reconhecimento de saberes (id 212)
+2025-09-01 22:38:49,942 [INFO] Antes do processamento do tema 201 Memória usada: 3128.46 MB
+2025-09-01 22:38:59,540 [INFO] Depois do processamento do tema 201 Memória usada: 3128.77 MB
+2025-09-01 22:38:59,544 [INFO] Tema 202/458: Produção e Consumo Sustentáveis (id 213)
+2025-09-01 22:38:59,545 [INFO] Antes do processamento do tema 202 Memória usada: 3128.77 MB
+2025-09-01 22:39:07,059 [INFO] Depois do processamento do tema 202 Memória usada: 3129.61 MB
+2025-09-01 22:39:07,063 [INFO] Tema 203/458: Práticas Inovadoras e Sociais para Saúde e Educação Públicas (id 214)
+2025-09-01 22:39:07,063 [INFO] Antes do processamento do tema 203 Memória usada: 3129.61 MB
+2025-09-01 22:39:17,635 [INFO] Depois do processamento do tema 203 Memória usada: 3129.68 MB
+2025-09-01 22:39:17,639 [INFO] Tema 204/458: Saúde Única: integração de saúde de pessoas, animais, ecossistemas e tecnologias socias e assistivas (id 215)
+2025-09-01 22:39:17,640 [INFO] Antes do processamento do tema 204 Memória usada: 3129.68 MB
+2025-09-01 22:39:21,146 [INFO] Depois do processamento do tema 204 Memória usada: 3129.68 MB
+2025-09-01 22:39:21,149 [INFO] Tema 205/458: Tecnologias Locais para o Setor Produtivo (id 216)
+2025-09-01 22:39:21,150 [INFO] Antes do processamento do tema 205 Memória usada: 3129.68 MB
+2025-09-01 22:39:25,157 [INFO] Depois do processamento do tema 205 Memória usada: 3129.93 MB
+2025-09-01 22:39:25,160 [INFO] Tema 206/458: Tecnologias Produtivas: indústria química, farmacêutica e de produção (id 217)
+2025-09-01 22:39:25,161 [INFO] Antes do processamento do tema 206 Memória usada: 3129.93 MB
+2025-09-01 22:39:28,644 [INFO] Depois do processamento do tema 206 Memória usada: 3129.92 MB
+2025-09-01 22:39:28,647 [INFO] Tema 207/458: Turismo: desenvolvimento local (id 218)
+2025-09-01 22:39:28,647 [INFO] Antes do processamento do tema 207 Memória usada: 3129.92 MB
+2025-09-01 22:39:32,477 [INFO] Depois do processamento do tema 207 Memória usada: 3130.09 MB
+2025-09-01 22:39:32,482 [INFO] Tema 208/458: Agropecuária Sustentável (id 219)
+2025-09-01 22:39:32,483 [INFO] Antes do processamento do tema 208 Memória usada: 3130.09 MB
+2025-09-01 22:39:51,481 [INFO] Depois do processamento do tema 208 Memória usada: 3129.74 MB
+2025-09-01 22:39:51,484 [INFO] Tema 209/458: Agropecuária de Precisão (id 220)
+2025-09-01 22:39:51,484 [INFO] Antes do processamento do tema 209 Memória usada: 3129.74 MB
+2025-09-01 22:40:10,087 [INFO] Depois do processamento do tema 209 Memória usada: 3133.69 MB
+2025-09-01 22:40:10,090 [INFO] Tema 210/458: Democracia: fortalecimento de bases democráticas e desenvolvimento de políticas de estado (id 221)
+2025-09-01 22:40:10,090 [INFO] Antes do processamento do tema 210 Memória usada: 3133.69 MB
+2025-09-01 22:40:25,337 [INFO] Depois do processamento do tema 210 Memória usada: 3133.56 MB
+2025-09-01 22:40:25,456 [INFO] Tema 211/458: Desenvolvimento Regional: cidades inteligentes e redução das assimetrias (id 222)
+2025-09-01 22:40:25,457 [INFO] Antes do processamento do tema 211 Memória usada: 3138.07 MB
+2025-09-01 22:40:45,685 [INFO] Depois do processamento do tema 211 Memória usada: 3138.36 MB
+2025-09-01 22:40:45,688 [INFO] Tema 212/458: Energia: fontes renováveis, eficiência e transição energética (id 223)
+2025-09-01 22:40:45,688 [INFO] Antes do processamento do tema 212 Memória usada: 3138.36 MB
+2025-09-01 22:40:55,971 [INFO] Depois do processamento do tema 212 Memória usada: 3139.05 MB
+2025-09-01 22:40:55,974 [INFO] Tema 213/458: Formação de Professores: transição de modelo educacional, transdisciplinaridade de ensino e práticas pedagógicas inovadoras (id 224)
+2025-09-01 22:40:55,975 [INFO] Antes do processamento do tema 213 Memória usada: 3139.05 MB
+2025-09-01 22:41:37,746 [INFO] Depois do processamento do tema 213 Memória usada: 3139.05 MB
+2025-09-01 22:41:37,748 [INFO] Tema 214/458: Mineração: inovação na cadeia produtiva e mineração 4.0 (id 225)
+2025-09-01 22:41:37,749 [INFO] Antes do processamento do tema 214 Memória usada: 3139.05 MB
+2025-09-01 22:41:42,102 [INFO] Depois do processamento do tema 214 Memória usada: 3139.22 MB
+2025-09-01 22:41:42,106 [INFO] Tema 215/458: Mudanças Climáticas (id 226)
+2025-09-01 22:41:42,107 [INFO] Antes do processamento do tema 215 Memória usada: 3139.22 MB
+2025-09-01 22:41:46,737 [INFO] Depois do processamento do tema 215 Memória usada: 3139.45 MB
+2025-09-01 22:41:46,740 [INFO] Tema 216/458: Planejamento  e Desenvolvimento Urbano (id 227)
+2025-09-01 22:41:46,741 [INFO] Antes do processamento do tema 216 Memória usada: 3139.45 MB
+2025-09-01 22:41:56,511 [INFO] Depois do processamento do tema 216 Memória usada: 3139.45 MB
+2025-09-01 22:41:56,515 [INFO] Tema 217/458: Saúde e Biotecnologia (id 228)
+2025-09-01 22:41:56,515 [INFO] Antes do processamento do tema 217 Memória usada: 3139.45 MB
+2025-09-01 22:42:11,367 [INFO] Depois do processamento do tema 217 Memória usada: 3139.70 MB
+2025-09-01 22:42:11,371 [INFO] Tema 218/458: Água: captação, distribuição, racionalização, tratamento, reutilização e uso eficiente e sustentável (id 229)
+2025-09-01 22:42:11,371 [INFO] Antes do processamento do tema 218 Memória usada: 3139.70 MB
+2025-09-01 22:42:16,610 [INFO] Depois do processamento do tema 218 Memória usada: 3139.57 MB
+2025-09-01 22:42:16,613 [INFO] Tema 219/458: Agropecuária Inteligente: inteligência artificial e tecnologias (id 230)
+2025-09-01 22:42:16,614 [INFO] Antes do processamento do tema 219 Memória usada: 3139.57 MB
+2025-09-01 22:42:22,057 [INFO] Depois do processamento do tema 219 Memória usada: 3139.73 MB
+2025-09-01 22:42:22,061 [INFO] Tema 220/458: Agropecuária Sustentável e Segurança Alimentar (id 231)
+2025-09-01 22:42:22,061 [INFO] Antes do processamento do tema 220 Memória usada: 3139.73 MB
+2025-09-01 22:42:41,970 [INFO] Depois do processamento do tema 220 Memória usada: 3139.90 MB
+2025-09-01 22:42:42,099 [INFO] Tema 221/458: Alimentos Seguros: tecnologias, novos produtos e novos processos (id 232)
+2025-09-01 22:42:42,100 [INFO] Antes do processamento do tema 221 Memória usada: 3150.32 MB
+2025-09-01 22:42:49,135 [INFO] Depois do processamento do tema 221 Memória usada: 3151.11 MB
+2025-09-01 22:42:49,138 [INFO] Tema 222/458: Biotecnologia: alimento, saúde e produção industrial (id 233)
+2025-09-01 22:42:49,139 [INFO] Antes do processamento do tema 222 Memória usada: 3151.11 MB
+2025-09-01 22:43:07,216 [INFO] Depois do processamento do tema 222 Memória usada: 3151.12 MB
+2025-09-01 22:43:07,219 [INFO] Tema 223/458: Desenvolvimento Regional Sustentável (id 234)
+2025-09-01 22:43:07,220 [INFO] Antes do processamento do tema 223 Memória usada: 3151.12 MB
+2025-09-01 22:43:21,332 [INFO] Depois do processamento do tema 223 Memória usada: 3151.16 MB
+2025-09-01 22:43:21,335 [INFO] Tema 224/458: Economia Criativa: cultura, arte e lazer (id 235)
+2025-09-01 22:43:21,335 [INFO] Antes do processamento do tema 224 Memória usada: 3151.16 MB
+2025-09-01 22:43:31,267 [INFO] Depois do processamento do tema 224 Memória usada: 3151.18 MB
+2025-09-01 22:43:31,270 [INFO] Tema 225/458: Educação para o Futuro: políticas de formação de professores para a educação básica (id 236)
+2025-09-01 22:43:31,271 [INFO] Antes do processamento do tema 225 Memória usada: 3151.18 MB
+2025-09-01 22:44:19,744 [INFO] Depois do processamento do tema 225 Memória usada: 3151.43 MB
+2025-09-01 22:44:19,748 [INFO] Tema 226/458: Emergências Climáticas e Sustentabilidade (id 237)
+2025-09-01 22:44:19,748 [INFO] Antes do processamento do tema 226 Memória usada: 3151.43 MB
+2025-09-01 22:44:36,771 [INFO] Depois do processamento do tema 226 Memória usada: 3151.51 MB
+2025-09-01 22:44:36,774 [INFO] Tema 227/458: Inteligência Artificial: ciência de dados, aprendizado de máquina e aprendizado profundo (id 238)
+2025-09-01 22:44:36,775 [INFO] Antes do processamento do tema 227 Memória usada: 3151.51 MB
+2025-09-01 22:44:41,817 [INFO] Depois do processamento do tema 227 Memória usada: 3151.64 MB
+2025-09-01 22:44:41,820 [INFO] Tema 228/458: Saúde e Qualidade de Vida: diagnóstico e novas terapias (id 239)
+2025-09-01 22:44:41,821 [INFO] Antes do processamento do tema 228 Memória usada: 3151.64 MB
+2025-09-01 22:44:47,539 [INFO] Depois do processamento do tema 228 Memória usada: 3151.46 MB
+2025-09-01 22:44:47,542 [INFO] Tema 229/458: Territórios Saudáveis e Sustentáveis: soluções sustentáveis, humanas e inteligentes para cidades (id 240)
+2025-09-01 22:44:47,543 [INFO] Antes do processamento do tema 229 Memória usada: 3151.46 MB
+2025-09-01 22:44:58,015 [INFO] Depois do processamento do tema 229 Memória usada: 3151.85 MB
+2025-09-01 22:44:58,018 [INFO] Tema 230/458: Transformação Digital: digitalização e criação de competências digitais para transformação (id 241)
+2025-09-01 22:44:58,019 [INFO] Antes do processamento do tema 230 Memória usada: 3151.85 MB
+2025-09-01 22:45:08,757 [INFO] Depois do processamento do tema 230 Memória usada: 3152.53 MB
+2025-09-01 22:45:08,900 [INFO] Tema 231/458: Transição Energética: matrizes energéticas limpas, energias renováveis e eficiência energética (id 242)
+2025-09-01 22:45:08,900 [INFO] Antes do processamento do tema 231 Memória usada: 3158.48 MB
+2025-09-01 22:45:14,833 [INFO] Depois do processamento do tema 231 Memória usada: 3158.46 MB
+2025-09-01 22:45:14,835 [INFO] Tema 232/458: Agroindústria e Arranjo Produtivo Local (id 243)
+2025-09-01 22:45:14,836 [INFO] Antes do processamento do tema 232 Memória usada: 3158.46 MB
+2025-09-01 22:45:19,816 [INFO] Depois do processamento do tema 232 Memória usada: 3160.36 MB
+2025-09-01 22:45:19,820 [INFO] Tema 233/458: Ambiental, Social e Governança (id 244)
+2025-09-01 22:45:19,820 [INFO] Antes do processamento do tema 233 Memória usada: 3160.36 MB
+2025-09-01 22:45:31,069 [INFO] Depois do processamento do tema 233 Memória usada: 3160.23 MB
+2025-09-01 22:45:31,072 [INFO] Tema 234/458: Desenvolvimento Local Integrado (id 245)
+2025-09-01 22:45:31,073 [INFO] Antes do processamento do tema 234 Memória usada: 3160.23 MB
+2025-09-01 22:45:35,173 [INFO] Depois do processamento do tema 234 Memória usada: 3160.23 MB
+2025-09-01 22:45:35,177 [INFO] Tema 235/458: Empreendedorismo, Inovação e Transferência de Tecnologia (id 246)
+2025-09-01 22:45:35,178 [INFO] Antes do processamento do tema 235 Memória usada: 3160.23 MB
+2025-09-01 22:45:39,532 [INFO] Depois do processamento do tema 235 Memória usada: 3160.25 MB
+2025-09-01 22:45:39,535 [INFO] Tema 236/458: Energias Renováveis e Transição Energética (id 247)
+2025-09-01 22:45:39,535 [INFO] Antes do processamento do tema 236 Memória usada: 3160.25 MB
+2025-09-01 22:45:43,491 [INFO] Depois do processamento do tema 236 Memória usada: 3160.37 MB
+2025-09-01 22:45:43,495 [INFO] Tema 237/458: Impactos Ambientais e Sociais das Políticas de Desenvolvimento (id 248)
+2025-09-01 22:45:43,495 [INFO] Antes do processamento do tema 237 Memória usada: 3160.37 MB
+2025-09-01 22:45:51,433 [INFO] Depois do processamento do tema 237 Memória usada: 3160.48 MB
+2025-09-01 22:45:51,436 [INFO] Tema 238/458: Industrialização a partir da Bioeconomia (id 249)
+2025-09-01 22:45:51,437 [INFO] Antes do processamento do tema 238 Memória usada: 3160.48 MB
+2025-09-01 22:45:55,373 [INFO] Depois do processamento do tema 238 Memória usada: 3160.23 MB
+2025-09-01 22:45:55,376 [INFO] Tema 239/458: Justiça Social (id 250)
+2025-09-01 22:45:55,377 [INFO] Antes do processamento do tema 239 Memória usada: 3160.23 MB
+2025-09-01 22:46:00,947 [INFO] Depois do processamento do tema 239 Memória usada: 3160.36 MB
+2025-09-01 22:46:00,950 [INFO] Tema 240/458: Mudanças Climáticas e Segurança Hídrica (id 251)
+2025-09-01 22:46:00,951 [INFO] Antes do processamento do tema 240 Memória usada: 3160.36 MB
+2025-09-01 22:46:04,748 [INFO] Depois do processamento do tema 240 Memória usada: 3160.61 MB
+2025-09-01 22:46:04,854 [INFO] Tema 241/458: Organização dos Espaços Urbanos (id 252)
+2025-09-01 22:46:04,855 [INFO] Antes do processamento do tema 241 Memória usada: 3136.41 MB
+2025-09-01 22:46:11,212 [INFO] Depois do processamento do tema 241 Memória usada: 3136.28 MB
+2025-09-01 22:46:11,215 [INFO] Tema 242/458: Saberes dos Povos Originários e Comunidades Tradicionais (id 253)
+2025-09-01 22:46:11,216 [INFO] Antes do processamento do tema 242 Memória usada: 3136.28 MB
+2025-09-01 22:46:17,076 [INFO] Depois do processamento do tema 242 Memória usada: 3136.17 MB
+2025-09-01 22:46:17,080 [INFO] Tema 243/458: Saúde: promoção, pesquisa e desenvolvimento de tecnologias (id 254)
+2025-09-01 22:46:17,080 [INFO] Antes do processamento do tema 243 Memória usada: 3136.17 MB
+2025-09-01 22:46:21,047 [INFO] Depois do processamento do tema 243 Memória usada: 3136.18 MB
+2025-09-01 22:46:21,050 [INFO] Tema 244/458: Transformação Digital, Computação de Alto Desempenho e Indústria 4.0 (id 255)
+2025-09-01 22:46:21,051 [INFO] Antes do processamento do tema 244 Memória usada: 3136.18 MB
+2025-09-01 22:46:25,069 [INFO] Depois do processamento do tema 244 Memória usada: 3136.22 MB
+2025-09-01 22:46:25,073 [INFO] Tema 245/458: Biodiversidade: uso sustentável, restauração e conservação (id 256)
+2025-09-01 22:46:25,074 [INFO] Antes do processamento do tema 245 Memória usada: 3136.22 MB
+2025-09-01 22:46:33,186 [INFO] Depois do processamento do tema 245 Memória usada: 3136.17 MB
+2025-09-01 22:46:33,189 [INFO] Tema 246/458: Bioeconomia (id 257)
+2025-09-01 22:46:33,189 [INFO] Antes do processamento do tema 246 Memória usada: 3136.17 MB
+2025-09-01 22:46:38,975 [INFO] Depois do processamento do tema 246 Memória usada: 3136.17 MB
+2025-09-01 22:46:38,978 [INFO] Tema 247/458: Ciência Inclusiva: ações afirmativas, povos indígenas, quilombolas, comunidades tradicionais, equidade de gênero, etnia e raça
+ (id 258)
+2025-09-01 22:46:38,979 [INFO] Antes do processamento do tema 247 Memória usada: 3136.17 MB
+2025-09-01 22:46:44,110 [INFO] Depois do processamento do tema 247 Memória usada: 3136.28 MB
+2025-09-01 22:46:44,113 [INFO] Tema 248/458: Economia Circular da Amazônia (id 259)
+2025-09-01 22:46:44,114 [INFO] Antes do processamento do tema 248 Memória usada: 3136.28 MB
+2025-09-01 22:47:01,414 [INFO] Depois do processamento do tema 248 Memória usada: 3136.60 MB
+2025-09-01 22:47:01,418 [INFO] Tema 249/458: Ecoturismo de Base Comunitária (id 260)
+2025-09-01 22:47:01,418 [INFO] Antes do processamento do tema 249 Memória usada: 3136.60 MB
+2025-09-01 22:47:12,174 [INFO] Depois do processamento do tema 249 Memória usada: 3136.60 MB
+2025-09-01 22:47:12,178 [INFO] Tema 250/458: Educação Intercultural (id 261)
+2025-09-01 22:47:12,179 [INFO] Antes do processamento do tema 250 Memória usada: 3136.60 MB
+2025-09-01 22:47:24,947 [INFO] Depois do processamento do tema 250 Memória usada: 3136.62 MB
+2025-09-01 22:47:25,065 [INFO] Tema 251/458: Educação: ensino e pesquisa básica (id 262)
+2025-09-01 22:47:25,066 [INFO] Antes do processamento do tema 251 Memória usada: 3133.69 MB
+2025-09-01 22:47:54,375 [INFO] Depois do processamento do tema 251 Memória usada: 3133.67 MB
+2025-09-01 22:47:54,379 [INFO] Tema 252/458: Gestão Pública Estratégica (id 263)
+2025-09-01 22:47:54,379 [INFO] Antes do processamento do tema 252 Memória usada: 3133.67 MB
+2025-09-01 22:48:04,049 [INFO] Depois do processamento do tema 252 Memória usada: 3133.70 MB
+2025-09-01 22:48:04,053 [INFO] Tema 253/458: Infraestrutura e Mobilidade na Amazônia (id 264)
+2025-09-01 22:48:04,054 [INFO] Antes do processamento do tema 253 Memória usada: 3133.70 MB
+2025-09-01 22:48:13,221 [INFO] Depois do processamento do tema 253 Memória usada: 3133.57 MB
+2025-09-01 22:48:13,225 [INFO] Tema 254/458: Inovação em Quádrupla Hélice: governo, universidade, indústria e sociedade civil (id 265)
+2025-09-01 22:48:13,226 [INFO] Antes do processamento do tema 254 Memória usada: 3133.57 MB
+2025-09-01 22:48:18,405 [INFO] Depois do processamento do tema 254 Memória usada: 3133.55 MB
+2025-09-01 22:48:18,408 [INFO] Tema 255/458: Integração Tecnológica: ciberdesenvolvimento e inteligência artificial (id 266)
+2025-09-01 22:48:18,409 [INFO] Antes do processamento do tema 255 Memória usada: 3133.55 MB
+2025-09-01 22:48:23,314 [INFO] Depois do processamento do tema 255 Memória usada: 3133.43 MB
+2025-09-01 22:48:23,317 [INFO] Tema 256/458: Mercado de Carbono (id 267)
+2025-09-01 22:48:23,318 [INFO] Antes do processamento do tema 256 Memória usada: 3133.43 MB
+2025-09-01 22:48:27,112 [INFO] Depois do processamento do tema 256 Memória usada: 3133.36 MB
+2025-09-01 22:48:27,116 [INFO] Tema 257/458: Mudanças Climáticas (id 268)
+2025-09-01 22:48:27,116 [INFO] Antes do processamento do tema 257 Memória usada: 3133.36 MB
+2025-09-01 22:48:30,457 [INFO] Depois do processamento do tema 257 Memória usada: 3133.37 MB
+2025-09-01 22:48:30,460 [INFO] Tema 258/458: Produção Sustentável Integrada
+ (id 269)
+2025-09-01 22:48:30,461 [INFO] Antes do processamento do tema 258 Memória usada: 3133.37 MB
+2025-09-01 22:48:35,454 [INFO] Depois do processamento do tema 258 Memória usada: 3133.49 MB
+2025-09-01 22:48:35,457 [INFO] Tema 259/458: Restauração e Recuperação de Áreas Degradadas da Amazônia (id 270)
+2025-09-01 22:48:35,458 [INFO] Antes do processamento do tema 259 Memória usada: 3133.49 MB
+2025-09-01 22:48:53,679 [INFO] Depois do processamento do tema 259 Memória usada: 3133.86 MB
+2025-09-01 22:48:53,682 [INFO] Tema 260/458: Saberes Tradicionais Aplicados à Saúde (id 271)
+2025-09-01 22:48:53,682 [INFO] Antes do processamento do tema 260 Memória usada: 3133.86 MB
+2025-09-01 22:48:57,011 [INFO] Depois do processamento do tema 260 Memória usada: 3133.72 MB
+2025-09-01 22:48:57,135 [INFO] Tema 261/458: Saúde Única na Amazônia (id 272)
+2025-09-01 22:48:57,136 [INFO] Antes do processamento do tema 261 Memória usada: 3138.19 MB
+2025-09-01 22:49:03,965 [INFO] Depois do processamento do tema 261 Memória usada: 3138.31 MB
+2025-09-01 22:49:03,968 [INFO] Tema 262/458: Segurança Pública (id 273)
+2025-09-01 22:49:03,969 [INFO] Antes do processamento do tema 262 Memória usada: 3138.31 MB
+2025-09-01 22:49:07,953 [INFO] Depois do processamento do tema 262 Memória usada: 3138.31 MB
+2025-09-01 22:49:07,956 [INFO] Tema 263/458: Territorialidade Amazônica e Desenvolvimento Sustentável (id 274)
+2025-09-01 22:49:07,957 [INFO] Antes do processamento do tema 263 Memória usada: 3138.31 MB
+2025-09-01 22:49:33,642 [INFO] Depois do processamento do tema 263 Memória usada: 3138.31 MB
+2025-09-01 22:49:33,645 [INFO] Tema 264/458: Cidades Sustentáveis, Inclusivas e Resilientes (id 275)
+2025-09-01 22:49:33,646 [INFO] Antes do processamento do tema 264 Memória usada: 3138.31 MB
+2025-09-01 22:49:38,504 [INFO] Depois do processamento do tema 264 Memória usada: 3138.29 MB
+2025-09-01 22:49:38,507 [INFO] Tema 265/458: Combate à Violência (id 276)
+2025-09-01 22:49:38,508 [INFO] Antes do processamento do tema 265 Memória usada: 3138.29 MB
+2025-09-01 22:49:46,860 [INFO] Depois do processamento do tema 265 Memória usada: 3138.41 MB
+2025-09-01 22:49:46,863 [INFO] Tema 266/458: Desenvolvimento de Modelos de Economia Criativa (id 277)
+2025-09-01 22:49:46,864 [INFO] Antes do processamento do tema 266 Memória usada: 3138.41 MB
+2025-09-01 22:49:51,127 [INFO] Depois do processamento do tema 266 Memória usada: 3138.41 MB
+2025-09-01 22:49:51,130 [INFO] Tema 267/458: Direitos de Populações Vulneráveis (id 278)
+2025-09-01 22:49:51,131 [INFO] Antes do processamento do tema 267 Memória usada: 3138.41 MB
+2025-09-01 22:49:58,078 [INFO] Depois do processamento do tema 267 Memória usada: 3138.59 MB
+2025-09-01 22:49:58,081 [INFO] Tema 268/458: Educação: formação, permanência e práticas inovadoras e inclusivas em diferentes áreas (id 279)
+2025-09-01 22:49:58,082 [INFO] Antes do processamento do tema 268 Memória usada: 3138.59 MB
+2025-09-01 22:50:21,901 [INFO] Depois do processamento do tema 268 Memória usada: 3138.50 MB
+2025-09-01 22:50:21,905 [INFO] Tema 269/458: Educação: gestão e inovação da educação pública (id 280)
+2025-09-01 22:50:21,906 [INFO] Antes do processamento do tema 269 Memória usada: 3138.50 MB
+2025-09-01 22:50:45,870 [INFO] Depois do processamento do tema 269 Memória usada: 3138.49 MB
+2025-09-01 22:50:45,873 [INFO] Tema 270/458: Educação: inclusão e melhoria da qualidade com foco em saúde e na ciência, tecnologia, engenharia e matemática (id 281)
+2025-09-01 22:50:45,874 [INFO] Antes do processamento do tema 270 Memória usada: 3138.49 MB
+2025-09-01 22:51:04,389 [INFO] Depois do processamento do tema 270 Memória usada: 3138.49 MB
+2025-09-01 22:51:04,522 [INFO] Tema 271/458: Energias Renováveis: produção e armazenamento (id 282)
+2025-09-01 22:51:04,523 [INFO] Antes do processamento do tema 271 Memória usada: 3143.02 MB
+2025-09-01 22:51:10,955 [INFO] Depois do processamento do tema 271 Memória usada: 3143.41 MB
+2025-09-01 22:51:10,958 [INFO] Tema 272/458: Formação Cultural e Humana: desenvolvimento de novos modelos de sociedade (id 283)
+2025-09-01 22:51:10,958 [INFO] Antes do processamento do tema 272 Memória usada: 3143.41 MB
+2025-09-01 22:51:20,475 [INFO] Depois do processamento do tema 272 Memória usada: 3143.36 MB
+2025-09-01 22:51:20,478 [INFO] Tema 273/458: Inovação Industrial e Logística: tecnologias habilitadoras (id 284)
+2025-09-01 22:51:20,478 [INFO] Antes do processamento do tema 273 Memória usada: 3143.36 MB
+2025-09-01 22:51:26,312 [INFO] Depois do processamento do tema 273 Memória usada: 3143.36 MB
+2025-09-01 22:51:26,315 [INFO] Tema 274/458: Novas Tecnologias Assistivas e Acessíveis (id 285)
+2025-09-01 22:51:26,315 [INFO] Antes do processamento do tema 274 Memória usada: 3143.36 MB
+2025-09-01 22:51:31,009 [INFO] Depois do processamento do tema 274 Memória usada: 3143.36 MB
+2025-09-01 22:51:31,014 [INFO] Tema 275/458: Produção e Segurança Alimentar (id 286)
+2025-09-01 22:51:31,014 [INFO] Antes do processamento do tema 275 Memória usada: 3143.36 MB
+2025-09-01 22:51:39,334 [INFO] Depois do processamento do tema 275 Memória usada: 3143.36 MB
+2025-09-01 22:51:39,337 [INFO] Tema 276/458: Recursos Hídricos e Resíduos Sólidos (id 287)
+2025-09-01 22:51:39,338 [INFO] Antes do processamento do tema 276 Memória usada: 3143.36 MB
+2025-09-01 22:51:47,139 [INFO] Depois do processamento do tema 276 Memória usada: 3143.36 MB
+2025-09-01 22:51:47,143 [INFO] Tema 277/458: Saúde: biotecnologia, química fina, fármacos, saúde coletiva e saúde pública (id 288)
+2025-09-01 22:51:47,143 [INFO] Antes do processamento do tema 277 Memória usada: 3143.36 MB
+2025-09-01 22:51:51,595 [INFO] Depois do processamento do tema 277 Memória usada: 3143.36 MB
+2025-09-01 22:51:51,598 [INFO] Tema 278/458: Semiárido: bioeconomia, produção rural e sustentabilidade (id 289)
+2025-09-01 22:51:51,598 [INFO] Antes do processamento do tema 278 Memória usada: 3143.36 MB
+2025-09-01 22:52:06,491 [INFO] Depois do processamento do tema 278 Memória usada: 3143.13 MB
+2025-09-01 22:52:06,495 [INFO] Tema 279/458: Tecnologias da Informação e Comunicação e Ciência de Dados: modelos de democratização (id 290)
+2025-09-01 22:52:06,496 [INFO] Antes do processamento do tema 279 Memória usada: 3143.13 MB
+2025-09-01 22:52:13,295 [INFO] Depois do processamento do tema 279 Memória usada: 3143.13 MB
+2025-09-01 22:52:13,298 [INFO] Tema 280/458: Agroindústria: modernização e produção de alimentos (id 291)
+2025-09-01 22:52:13,299 [INFO] Antes do processamento do tema 280 Memória usada: 3143.13 MB
+2025-09-01 22:52:17,002 [INFO] Depois do processamento do tema 280 Memória usada: 3143.13 MB
+2025-09-01 22:52:17,125 [INFO] Tema 281/458: Agronegócio e Sustentabilidade (id 292)
+2025-09-01 22:52:17,126 [INFO] Antes do processamento do tema 281 Memória usada: 3139.48 MB
+2025-09-01 22:52:21,042 [INFO] Depois do processamento do tema 281 Memória usada: 3139.36 MB
+2025-09-01 22:52:21,044 [INFO] Tema 282/458: Biotecnologia e Fármacos (id 293)
+2025-09-01 22:52:21,045 [INFO] Antes do processamento do tema 282 Memória usada: 3139.36 MB
+2025-09-01 22:52:23,627 [INFO] Depois do processamento do tema 282 Memória usada: 3139.47 MB
+2025-09-01 22:52:23,630 [INFO] Tema 283/458: Desenvolvimento Econômico: turismo e sustentabilidade (id 294)
+2025-09-01 22:52:23,631 [INFO] Antes do processamento do tema 283 Memória usada: 3139.47 MB
+2025-09-01 22:52:26,773 [INFO] Depois do processamento do tema 283 Memória usada: 3139.14 MB
+2025-09-01 22:52:26,775 [INFO] Tema 284/458: Digitalização, Automação e Indústria 4.0 (id 295)
+2025-09-01 22:52:26,776 [INFO] Antes do processamento do tema 284 Memória usada: 3139.14 MB
+2025-09-01 22:52:29,877 [INFO] Depois do processamento do tema 284 Memória usada: 3139.15 MB
+2025-09-01 22:52:29,882 [INFO] Tema 285/458: Economia Criativa (id 296)
+2025-09-01 22:52:29,883 [INFO] Antes do processamento do tema 285 Memória usada: 3139.15 MB
+2025-09-01 22:52:33,563 [INFO] Depois do processamento do tema 285 Memória usada: 3139.02 MB
+2025-09-01 22:52:33,566 [INFO] Tema 286/458: Educação para o Empreendedorismo e Inovação (id 297)
+2025-09-01 22:52:33,567 [INFO] Antes do processamento do tema 286 Memória usada: 3139.02 MB
+2025-09-01 22:52:38,855 [INFO] Depois do processamento do tema 286 Memória usada: 3139.14 MB
+2025-09-01 22:52:38,860 [INFO] Tema 287/458: Engenharias: ambientais, florestais e minerais (id 298)
+2025-09-01 22:52:38,860 [INFO] Antes do processamento do tema 287 Memória usada: 3139.14 MB
+2025-09-01 22:52:42,107 [INFO] Depois do processamento do tema 287 Memória usada: 3139.13 MB
+2025-09-01 22:52:42,110 [INFO] Tema 288/458: Formação de Professores (id 299)
+2025-09-01 22:52:42,111 [INFO] Antes do processamento do tema 288 Memória usada: 3139.13 MB
+2025-09-01 22:52:48,621 [INFO] Depois do processamento do tema 288 Memória usada: 3138.94 MB
+2025-09-01 22:52:48,624 [INFO] Tema 289/458: Gestão Pública: planejamento com base em resultados (id 300)
+2025-09-01 22:52:48,625 [INFO] Antes do processamento do tema 289 Memória usada: 3138.94 MB
+2025-09-01 22:52:53,148 [INFO] Depois do processamento do tema 289 Memória usada: 3138.93 MB
+2025-09-01 22:52:53,151 [INFO] Tema 290/458: Logística e Distribuição (id 301)
+2025-09-01 22:52:53,152 [INFO] Antes do processamento do tema 290 Memória usada: 3138.93 MB
+2025-09-01 22:52:55,965 [INFO] Depois do processamento do tema 290 Memória usada: 3138.92 MB
+2025-09-01 22:52:56,080 [INFO] Tema 291/458: Patrimônio e Identidade Cultural (id 302)
+2025-09-01 22:52:56,081 [INFO] Antes do processamento do tema 291 Memória usada: 3136.52 MB
+2025-09-01 22:52:59,630 [INFO] Depois do processamento do tema 291 Memória usada: 3134.55 MB
+2025-09-01 22:52:59,634 [INFO] Tema 292/458: Políticas Sociais e Ações Afirmativas (id 303)
+2025-09-01 22:52:59,634 [INFO] Antes do processamento do tema 292 Memória usada: 3134.55 MB
+2025-09-01 22:53:03,187 [INFO] Depois do processamento do tema 292 Memória usada: 3138.55 MB
+2025-09-01 22:53:03,192 [INFO] Tema 293/458: Produção Limpa (id 304)
+2025-09-01 22:53:03,193 [INFO] Antes do processamento do tema 293 Memória usada: 3138.55 MB
+2025-09-01 22:53:06,559 [INFO] Depois do processamento do tema 293 Memória usada: 3138.63 MB
+2025-09-01 22:53:06,562 [INFO] Tema 294/458: Saneamento e Gestão de Resíduos (id 305)
+2025-09-01 22:53:06,562 [INFO] Antes do processamento do tema 294 Memória usada: 3138.63 MB
+2025-09-01 22:53:09,398 [INFO] Depois do processamento do tema 294 Memória usada: 3138.63 MB
+2025-09-01 22:53:09,402 [INFO] Tema 295/458: Tecnologia Aplicada à Saúde (id 306)
+2025-09-01 22:53:09,403 [INFO] Antes do processamento do tema 295 Memória usada: 3138.63 MB
+2025-09-01 22:53:12,733 [INFO] Depois do processamento do tema 295 Memória usada: 3138.87 MB
+2025-09-01 22:53:12,736 [INFO] Tema 296/458: Tecnologias Sociais (id 307)
+2025-09-01 22:53:12,736 [INFO] Antes do processamento do tema 296 Memória usada: 3138.87 MB
+2025-09-01 22:53:16,479 [INFO] Depois do processamento do tema 296 Memória usada: 3138.88 MB
+2025-09-01 22:53:16,482 [INFO] Tema 297/458: Transformação Digital (id 308)
+2025-09-01 22:53:16,483 [INFO] Antes do processamento do tema 297 Memória usada: 3138.88 MB
+2025-09-01 22:53:19,371 [INFO] Depois do processamento do tema 297 Memória usada: 3138.88 MB
+2025-09-01 22:53:19,374 [INFO] Tema 298/458: Transporte e Infraestrutura (id 309)
+2025-09-01 22:53:19,375 [INFO] Antes do processamento do tema 298 Memória usada: 3138.88 MB
+2025-09-01 22:53:22,279 [INFO] Depois do processamento do tema 298 Memória usada: 3138.88 MB
+2025-09-01 22:53:22,283 [INFO] Tema 299/458: Agricultura, Pecuária e Pesca (id 310)
+2025-09-01 22:53:22,283 [INFO] Antes do processamento do tema 299 Memória usada: 3138.88 MB
+2025-09-01 22:53:34,197 [INFO] Depois do processamento do tema 299 Memória usada: 3138.87 MB
+2025-09-01 22:53:34,201 [INFO] Tema 300/458: Agroecologia (id 311)
+2025-09-01 22:53:34,202 [INFO] Antes do processamento do tema 300 Memória usada: 3138.87 MB
+2025-09-01 22:54:06,605 [INFO] Depois do processamento do tema 300 Memória usada: 3139.11 MB
+2025-09-01 22:54:06,715 [INFO] Tema 301/458: Biotecnologia: desenvolvimento de fármacos, insumos, vacinas e kits diagnósticos (id 312)
+2025-09-01 22:54:06,716 [INFO] Antes do processamento do tema 301 Memória usada: 3142.16 MB
+2025-09-01 22:54:15,637 [INFO] Depois do processamento do tema 301 Memória usada: 3142.35 MB
+2025-09-01 22:54:15,640 [INFO] Tema 302/458: Cultura, Arte e Economia Criativa (id 313)
+2025-09-01 22:54:15,640 [INFO] Antes do processamento do tema 302 Memória usada: 3142.35 MB
+2025-09-01 22:54:31,037 [INFO] Depois do processamento do tema 302 Memória usada: 3143.21 MB
+2025-09-01 22:54:31,040 [INFO] Tema 303/458: Desenvolvimento Industrial: indústrias petroleiras, química, naval, computacional e siderúrgica (id 314)
+2025-09-01 22:54:31,041 [INFO] Antes do processamento do tema 303 Memória usada: 3143.21 MB
+2025-09-01 22:54:36,412 [INFO] Depois do processamento do tema 303 Memória usada: 3143.10 MB
+2025-09-01 22:54:36,416 [INFO] Tema 304/458: Desenvolvimento Regional (id 315)
+2025-09-01 22:54:36,416 [INFO] Antes do processamento do tema 304 Memória usada: 3143.10 MB
+2025-09-01 22:54:46,993 [INFO] Depois do processamento do tema 304 Memória usada: 3143.02 MB
+2025-09-01 22:54:46,997 [INFO] Tema 305/458: Desigualdades Sociais: ações afirmativas e tecnologias para inclusão e equidade (id 316)
+2025-09-01 22:54:46,997 [INFO] Antes do processamento do tema 305 Memória usada: 3143.02 MB
+2025-09-01 22:55:00,312 [INFO] Depois do processamento do tema 305 Memória usada: 3143.27 MB
+2025-09-01 22:55:00,316 [INFO] Tema 306/458: Educação Empreendedora na Pós-Graduação (id 317)
+2025-09-01 22:55:00,316 [INFO] Antes do processamento do tema 306 Memória usada: 3143.27 MB
+2025-09-01 22:55:06,113 [INFO] Depois do processamento do tema 306 Memória usada: 3142.64 MB
+2025-09-01 22:55:06,117 [INFO] Tema 307/458: Educação: tecnologias para o ensino (id 318)
+2025-09-01 22:55:06,118 [INFO] Antes do processamento do tema 307 Memória usada: 3142.64 MB
+2025-09-01 22:55:53,954 [INFO] Depois do processamento do tema 307 Memória usada: 3142.76 MB
+2025-09-01 22:55:53,957 [INFO] Tema 308/458: Energias Renováveis e Transição Energética (id 319)
+2025-09-01 22:55:53,958 [INFO] Antes do processamento do tema 308 Memória usada: 3142.76 MB
+2025-09-01 22:56:01,243 [INFO] Depois do processamento do tema 308 Memória usada: 3142.80 MB
+2025-09-01 22:56:01,247 [INFO] Tema 309/458: Eventos Extremos: prevenção e remediação de desastres (id 320)
+2025-09-01 22:56:01,247 [INFO] Antes do processamento do tema 309 Memória usada: 3142.80 MB
+2025-09-01 22:56:11,070 [INFO] Depois do processamento do tema 309 Memória usada: 3142.78 MB
+2025-09-01 22:56:11,073 [INFO] Tema 310/458: Georreferenciamento (id 321)
+2025-09-01 22:56:11,073 [INFO] Antes do processamento do tema 310 Memória usada: 3142.78 MB
+2025-09-01 22:56:16,940 [INFO] Depois do processamento do tema 310 Memória usada: 3143.11 MB
+2025-09-01 22:56:17,079 [INFO] Tema 311/458: Indústria 4.0: robótica, bioinformática, cibersegurança, computação quântica e inteligência artificial (id 322)
+2025-09-01 22:56:17,080 [INFO] Antes do processamento do tema 311 Memória usada: 3148.47 MB
+2025-09-01 22:56:22,103 [INFO] Depois do processamento do tema 311 Memória usada: 3149.33 MB
+2025-09-01 22:56:22,106 [INFO] Tema 312/458: Meio Ambiente e Sustentabilidade (id 323)
+2025-09-01 22:56:22,107 [INFO] Antes do processamento do tema 312 Memória usada: 3149.33 MB
+2025-09-01 22:56:41,498 [INFO] Depois do processamento do tema 312 Memória usada: 3149.69 MB
+2025-09-01 22:56:41,501 [INFO] Tema 313/458: Mobilidade Urbana, Logística e Cidades Inteligentes (id 324)
+2025-09-01 22:56:41,502 [INFO] Antes do processamento do tema 313 Memória usada: 3149.69 MB
+2025-09-01 22:56:49,684 [INFO] Depois do processamento do tema 313 Memória usada: 3149.51 MB
+2025-09-01 22:56:49,687 [INFO] Tema 314/458: Políticas Públicas: qualidade de vida, inovação e desenvolvimento social  (id 325)
+2025-09-01 22:56:49,687 [INFO] Antes do processamento do tema 314 Memória usada: 3149.51 MB
+2025-09-01 22:57:30,290 [INFO] Depois do processamento do tema 314 Memória usada: 3149.51 MB
+2025-09-01 22:57:30,294 [INFO] Tema 315/458: Recursos Hídricos: despoluição das águas, acesso e tecnologias de reaproveitamento (id 326)
+2025-09-01 22:57:30,294 [INFO] Antes do processamento do tema 315 Memória usada: 3149.51 MB
+2025-09-01 22:57:35,749 [INFO] Depois do processamento do tema 315 Memória usada: 3149.52 MB
+2025-09-01 22:57:35,752 [INFO] Tema 316/458: Saúde: terapias avançadas, incorporação de novas tecnologias e complexo industrial (id 327)
+2025-09-01 22:57:35,753 [INFO] Antes do processamento do tema 316 Memória usada: 3149.52 MB
+2025-09-01 22:57:41,176 [INFO] Depois do processamento do tema 316 Memória usada: 3149.52 MB
+2025-09-01 22:57:41,180 [INFO] Tema 317/458: Segurança Pública: violência e relações interpessoais (id 328)
+2025-09-01 22:57:41,180 [INFO] Antes do processamento do tema 317 Memória usada: 3149.52 MB
+2025-09-01 22:58:00,867 [INFO] Depois do processamento do tema 317 Memória usada: 3149.52 MB
+2025-09-01 22:58:00,870 [INFO] Tema 318/458: Tecnologias Assistivas: inclusão e acessibilidade para pessoas com deficiência (id 329)
+2025-09-01 22:58:00,871 [INFO] Antes do processamento do tema 318 Memória usada: 3149.52 MB
+2025-09-01 22:58:09,433 [INFO] Depois do processamento do tema 318 Memória usada: 3149.48 MB
+2025-09-01 22:58:09,436 [INFO] Tema 319/458: Turismo (id 330)
+2025-09-01 22:58:09,437 [INFO] Antes do processamento do tema 319 Memória usada: 3149.48 MB
+2025-09-01 22:58:19,771 [INFO] Depois do processamento do tema 319 Memória usada: 3149.61 MB
+2025-09-01 22:58:19,774 [INFO] Tema 320/458: Agricultura Familiar de Base Agroecológica: soberania alimentar e sucessão rural (id 331)
+2025-09-01 22:58:19,775 [INFO] Antes do processamento do tema 320 Memória usada: 3149.61 MB
+2025-09-01 22:58:24,898 [INFO] Depois do processamento do tema 320 Memória usada: 3149.61 MB
+2025-09-01 22:58:25,033 [INFO] Tema 321/458: Arranjos Produtivos Territoriais: agroindústria, economia solidária e inclusão social (id 332)
+2025-09-01 22:58:25,034 [INFO] Antes do processamento do tema 321 Memória usada: 3158.73 MB
+2025-09-01 22:58:30,921 [INFO] Depois do processamento do tema 321 Memória usada: 3158.73 MB
+2025-09-01 22:58:30,925 [INFO] Tema 322/458: Cidades e Territórios Inteligentes (id 333)
+2025-09-01 22:58:30,925 [INFO] Antes do processamento do tema 322 Memória usada: 3158.73 MB
+2025-09-01 22:58:36,544 [INFO] Depois do processamento do tema 322 Memória usada: 3158.83 MB
+2025-09-01 22:58:36,548 [INFO] Tema 323/458: Comportamento Humano e Diversidade Cultural (id 334)
+2025-09-01 22:58:36,549 [INFO] Antes do processamento do tema 323 Memória usada: 3158.83 MB
+2025-09-01 22:58:42,130 [INFO] Depois do processamento do tema 323 Memória usada: 3158.82 MB
+2025-09-01 22:58:42,134 [INFO] Tema 324/458: Desenvolvimento Sustentável: recursos hídricos, gestão ambiental e semiárido (id 335)
+2025-09-01 22:58:42,135 [INFO] Antes do processamento do tema 324 Memória usada: 3158.82 MB
+2025-09-01 22:58:46,863 [INFO] Depois do processamento do tema 324 Memória usada: 3158.82 MB
+2025-09-01 22:58:46,867 [INFO] Tema 325/458: Economia do Mar (id 336)
+2025-09-01 22:58:46,868 [INFO] Antes do processamento do tema 325 Memória usada: 3158.82 MB
+2025-09-01 22:58:50,001 [INFO] Depois do processamento do tema 325 Memória usada: 3158.82 MB
+2025-09-01 22:58:50,004 [INFO] Tema 326/458: Educação Empreendedora e Profissional (id 337)
+2025-09-01 22:58:50,004 [INFO] Antes do processamento do tema 326 Memória usada: 3158.82 MB
+2025-09-01 22:59:04,427 [INFO] Depois do processamento do tema 326 Memória usada: 3158.82 MB
+2025-09-01 22:59:04,431 [INFO] Tema 327/458: Energias Renováveis: impactos socioambientais e respeito aos povos e aos territórios (id 338)
+2025-09-01 22:59:04,431 [INFO] Antes do processamento do tema 327 Memória usada: 3158.82 MB
+2025-09-01 22:59:09,462 [INFO] Depois do processamento do tema 327 Memória usada: 3158.82 MB
+2025-09-01 22:59:09,466 [INFO] Tema 328/458: Formação Docente, Tecnologias Educacionais e Desenvolvimento Humano (id 339)
+2025-09-01 22:59:09,467 [INFO] Antes do processamento do tema 328 Memória usada: 3158.82 MB
+2025-09-01 22:59:29,357 [INFO] Depois do processamento do tema 328 Memória usada: 3158.56 MB
+2025-09-01 22:59:29,361 [INFO] Tema 329/458: Geoturismo e Turismo de Base Comunitária (id 340)
+2025-09-01 22:59:29,362 [INFO] Antes do processamento do tema 329 Memória usada: 3158.56 MB
+2025-09-01 22:59:33,714 [INFO] Depois do processamento do tema 329 Memória usada: 3158.56 MB
+2025-09-01 22:59:33,717 [INFO] Tema 330/458: Gestão de Projetos (id 341)
+2025-09-01 22:59:33,718 [INFO] Antes do processamento do tema 330 Memória usada: 3158.56 MB
+2025-09-01 22:59:39,229 [INFO] Depois do processamento do tema 330 Memória usada: 3158.53 MB
+2025-09-01 22:59:39,346 [INFO] Tema 331/458: Inovação na Gestão Pública (id 342)
+2025-09-01 22:59:39,347 [INFO] Antes do processamento do tema 331 Memória usada: 3152.67 MB
+2025-09-01 22:59:45,326 [INFO] Depois do processamento do tema 331 Memória usada: 3152.79 MB
+2025-09-01 22:59:45,329 [INFO] Tema 332/458: Mapeamento das Populações Indígenas e Políticas Públicas Associadas (id 343)
+2025-09-01 22:59:45,330 [INFO] Antes do processamento do tema 332 Memória usada: 3152.79 MB
+2025-09-01 22:59:48,720 [INFO] Depois do processamento do tema 332 Memória usada: 3152.79 MB
+2025-09-01 22:59:48,723 [INFO] Tema 333/458: Parques Científicos, Tecnológicos e Ecossistemas de Inovação (id 344)
+2025-09-01 22:59:48,724 [INFO] Antes do processamento do tema 333 Memória usada: 3152.79 MB
+2025-09-01 22:59:53,023 [INFO] Depois do processamento do tema 333 Memória usada: 3152.79 MB
+2025-09-01 22:59:53,026 [INFO] Tema 334/458: Políticas Públicas e Justiça Social: étnico-racial, gênero, sexualidade, diversidade e inclusão (id 345)
+2025-09-01 22:59:53,027 [INFO] Antes do processamento do tema 334 Memória usada: 3152.79 MB
+2025-09-01 22:59:58,362 [INFO] Depois do processamento do tema 334 Memória usada: 3152.79 MB
+2025-09-01 22:59:58,366 [INFO] Tema 335/458: Saúde Pública (id 346)
+2025-09-01 22:59:58,367 [INFO] Antes do processamento do tema 335 Memória usada: 3152.79 MB
+2025-09-01 23:00:06,620 [INFO] Depois do processamento do tema 335 Memória usada: 3152.79 MB
+2025-09-01 23:00:06,623 [INFO] Tema 336/458: Segurança Pública (id 347)
+2025-09-01 23:00:06,624 [INFO] Antes do processamento do tema 336 Memória usada: 3152.79 MB
+2025-09-01 23:00:10,704 [INFO] Depois do processamento do tema 336 Memória usada: 3152.91 MB
+2025-09-01 23:00:10,709 [INFO] Tema 337/458: Transformação Digital (id 348)
+2025-09-01 23:00:10,710 [INFO] Antes do processamento do tema 337 Memória usada: 3152.91 MB
+2025-09-01 23:00:15,589 [INFO] Depois do processamento do tema 337 Memória usada: 3153.02 MB
+2025-09-01 23:00:15,592 [INFO] Tema 338/458: Turismo e Desenvolvimento Regional (id 349)
+2025-09-01 23:00:15,592 [INFO] Antes do processamento do tema 338 Memória usada: 3153.02 MB
+2025-09-01 23:00:20,391 [INFO] Depois do processamento do tema 338 Memória usada: 3152.88 MB
+2025-09-01 23:00:20,394 [INFO] Tema 339/458: Agronegócio e Bioeconomia: inovação sustentável, adaptação climática e valorização de cadeias produtivas (id 350)
+2025-09-01 23:00:20,394 [INFO] Antes do processamento do tema 339 Memória usada: 3152.88 MB
+2025-09-01 23:00:38,234 [INFO] Depois do processamento do tema 339 Memória usada: 3153.00 MB
+2025-09-01 23:00:38,237 [INFO] Tema 340/458: Biotecnologia e Inovação: do aumento de escala  à transferência tecnológica (id 351)
+2025-09-01 23:00:38,237 [INFO] Antes do processamento do tema 340 Memória usada: 3153.00 MB
+2025-09-01 23:00:46,327 [INFO] Depois do processamento do tema 340 Memória usada: 3152.99 MB
+2025-09-01 23:00:46,439 [INFO] Tema 341/458: Ciência de Dados e Inteligência Artificial Aplicada a Setores Estratégicos (id 352)
+2025-09-01 23:00:46,440 [INFO] Antes do processamento do tema 341 Memória usada: 3155.18 MB
+2025-09-01 23:00:56,504 [INFO] Depois do processamento do tema 341 Memória usada: 3155.18 MB
+2025-09-01 23:00:56,508 [INFO] Tema 342/458: Desenvolvimento Econômico Sustentável: transição energética, diversificação de matrizes e economia verde (id 353)
+2025-09-01 23:00:56,508 [INFO] Antes do processamento do tema 342 Memória usada: 3155.18 MB
+2025-09-01 23:01:05,221 [INFO] Depois do processamento do tema 342 Memória usada: 3155.16 MB
+2025-09-01 23:01:05,225 [INFO] Tema 343/458: Economia Azul e Sustentabilidade dos Oceanos (id 354)
+2025-09-01 23:01:05,226 [INFO] Antes do processamento do tema 343 Memória usada: 3155.16 MB
+2025-09-01 23:01:09,831 [INFO] Depois do processamento do tema 343 Memória usada: 3155.06 MB
+2025-09-01 23:01:09,835 [INFO] Tema 344/458: Eletrônica, Bioengenharia e Indústria 4.0: inteligência artificial, ecossistemas de inovação e inclusão tecnológica (id 355)
+2025-09-01 23:01:09,835 [INFO] Antes do processamento do tema 344 Memória usada: 3155.06 MB
+2025-09-01 23:01:15,758 [INFO] Depois do processamento do tema 344 Memória usada: 3155.05 MB
+2025-09-01 23:01:15,764 [INFO] Tema 345/458: Gestão de Recursos Naturais e Sustentabilidade Hídrica (id 356)
+2025-09-01 23:01:15,764 [INFO] Antes do processamento do tema 345 Memória usada: 3155.05 MB
+2025-09-01 23:01:28,786 [INFO] Depois do processamento do tema 345 Memória usada: 3155.10 MB
+2025-09-01 23:01:28,789 [INFO] Tema 346/458: Inovação Social, Tecnologias Inclusivas e Empreendedorismo de Impacto (id 357)
+2025-09-01 23:01:28,790 [INFO] Antes do processamento do tema 346 Memória usada: 3155.10 MB
+2025-09-01 23:01:44,238 [INFO] Depois do processamento do tema 346 Memória usada: 3155.28 MB
+2025-09-01 23:01:44,241 [INFO] Tema 347/458: Mudanças Climáticas, Adaptação e Gestão de Riscos: da prevenção à resiliência (id 358)
+2025-09-01 23:01:44,242 [INFO] Antes do processamento do tema 347 Memória usada: 3155.28 MB
+2025-09-01 23:01:49,732 [INFO] Depois do processamento do tema 347 Memória usada: 3155.27 MB
+2025-09-01 23:01:49,735 [INFO] Tema 348/458: Plataformas Experimentais Integradas de Inovação: pesquisa, validação e escalonamento tecnológico (id 359)
+2025-09-01 23:01:49,735 [INFO] Antes do processamento do tema 348 Memória usada: 3155.27 MB
+2025-09-01 23:02:01,838 [INFO] Depois do processamento do tema 348 Memória usada: 3155.15 MB
+2025-09-01 23:02:01,842 [INFO] Tema 349/458: Saúde: equidade, medicamentos, envelhecimento, inovação e desenvolvimento no Sistema Único de Saúde e na indústria da saúde (id 360)
+2025-09-01 23:02:01,843 [INFO] Antes do processamento do tema 349 Memória usada: 3155.15 MB
+2025-09-01 23:02:07,915 [INFO] Depois do processamento do tema 349 Memória usada: 3155.38 MB
+2025-09-01 23:02:07,918 [INFO] Tema 350/458: Semicondutores e Materiais Avançados: inovação colaborativa, transferência tecnológica e capacitação estratégica (id 361)
+2025-09-01 23:02:07,919 [INFO] Antes do processamento do tema 350 Memória usada: 3155.38 MB
+2025-09-01 23:02:11,472 [INFO] Depois do processamento do tema 350 Memória usada: 3155.39 MB
+2025-09-01 23:02:11,588 [INFO] Tema 351/458: Sistemas Agroalimentares e Agroindustriais: agregação de valor, segurança alimentar e sustentabilidade na produção e na indústria (id 362)
+2025-09-01 23:02:11,589 [INFO] Antes do processamento do tema 351 Memória usada: 3157.28 MB
+2025-09-01 23:02:33,314 [INFO] Depois do processamento do tema 351 Memória usada: 3157.28 MB
+2025-09-01 23:02:33,318 [INFO] Tema 352/458: Sistemas Educacionais: qualidade, formação e inovação para a educação básica (id 363)
+2025-09-01 23:02:33,319 [INFO] Antes do processamento do tema 352 Memória usada: 3157.28 MB
+2025-09-01 23:03:38,209 [INFO] Depois do processamento do tema 352 Memória usada: 3157.61 MB
+2025-09-01 23:03:38,212 [INFO] Tema 353/458: Agricultura e Pecuária: inovações tecnológicas para sustentabilidade econômica e ambiental no setor agropecuário e florestal (id 364)
+2025-09-01 23:03:38,214 [INFO] Antes do processamento do tema 353 Memória usada: 3157.61 MB
+2025-09-01 23:03:41,012 [INFO] Depois do processamento do tema 353 Memória usada: 3157.61 MB
+2025-09-01 23:03:41,015 [INFO] Tema 354/458: Biodiversidade e Biotecnologia Aplicadas à Saúde (id 365)
+2025-09-01 23:03:41,016 [INFO] Antes do processamento do tema 354 Memória usada: 3157.61 MB
+2025-09-01 23:03:44,243 [INFO] Depois do processamento do tema 354 Memória usada: 3157.75 MB
+2025-09-01 23:03:44,248 [INFO] Tema 355/458: Bioeconomia na Amazônia Ocidental: biotecnologia, bioinformática, tecnologias verdes, restauração ambiental e justiça climática (id 366)
+2025-09-01 23:03:44,248 [INFO] Antes do processamento do tema 355 Memória usada: 3157.75 MB
+2025-09-01 23:03:47,984 [INFO] Depois do processamento do tema 355 Memória usada: 3158.73 MB
+2025-09-01 23:03:47,987 [INFO] Tema 356/458: Biotecnologia e Bioprospecção: valorização dos saberes e cultura local e conservação da floresta (id 367)
+2025-09-01 23:03:47,988 [INFO] Antes do processamento do tema 356 Memória usada: 3158.73 MB
+2025-09-01 23:03:51,311 [INFO] Depois do processamento do tema 356 Memória usada: 3158.73 MB
+2025-09-01 23:03:51,314 [INFO] Tema 357/458: Doenças Tropicais Negligenciadas: pesquisa científica e inovações para saúde (id 368)
+2025-09-01 23:03:51,315 [INFO] Antes do processamento do tema 357 Memória usada: 3158.73 MB
+2025-09-01 23:03:54,300 [INFO] Depois do processamento do tema 357 Memória usada: 3158.55 MB
+2025-09-01 23:03:54,304 [INFO] Tema 358/458: Energias Renováveis: sustentabilidade e inovação para a Amazônia (id 369)
+2025-09-01 23:03:54,304 [INFO] Antes do processamento do tema 358 Memória usada: 3158.55 MB
+2025-09-01 23:03:57,547 [INFO] Depois do processamento do tema 358 Memória usada: 3158.43 MB
+2025-09-01 23:03:57,553 [INFO] Tema 359/458: Estratégias de Desenvolvimento Regional: cibersegurança, biossegurança, bioproteção na Amazônia Ocidental e indicadores para políticas públicas (id 370)
+2025-09-01 23:03:57,554 [INFO] Antes do processamento do tema 359 Memória usada: 3158.43 MB
+2025-09-01 23:04:01,475 [INFO] Depois do processamento do tema 359 Memória usada: 3158.12 MB
+2025-09-01 23:04:01,477 [INFO] Tema 360/458: Extensão Rural: emancipação, inclusão e inovação (id 371)
+2025-09-01 23:04:01,478 [INFO] Antes do processamento do tema 360 Memória usada: 3158.12 MB
+2025-09-01 23:04:04,232 [INFO] Depois do processamento do tema 360 Memória usada: 3158.37 MB
+2025-09-01 23:04:04,361 [INFO] Tema 361/458: Formação Continuada de Professores: novas tecnologias e diversidades da Amazônia Ocidental (id 372)
+2025-09-01 23:04:04,361 [INFO] Antes do processamento do tema 361 Memória usada: 3160.28 MB
+2025-09-01 23:04:08,089 [INFO] Depois do processamento do tema 361 Memória usada: 3160.41 MB
+2025-09-01 23:04:08,092 [INFO] Tema 362/458: Fronteira: direito transnacional e atividade judicante (id 373)
+2025-09-01 23:04:08,093 [INFO] Antes do processamento do tema 362 Memória usada: 3160.41 MB
+2025-09-01 23:04:11,249 [INFO] Depois do processamento do tema 362 Memória usada: 3160.41 MB
+2025-09-01 23:04:11,253 [INFO] Tema 363/458: Inovações Tecnológicas: atividades econômicas industriais, agropecuárias e florestais (id 374)
+2025-09-01 23:04:11,255 [INFO] Antes do processamento do tema 363 Memória usada: 3160.41 MB
+2025-09-01 23:04:13,960 [INFO] Depois do processamento do tema 363 Memória usada: 3160.47 MB
+2025-09-01 23:04:13,963 [INFO] Tema 364/458: Negócios Sustentáveis: soluções baseadas na natureza, redução de emissões por desmatamento e degradação, pagamento por serviços ambientais e bioeconomia (id 376)
+2025-09-01 23:04:13,963 [INFO] Antes do processamento do tema 364 Memória usada: 3160.47 MB
+2025-09-01 23:04:17,318 [INFO] Depois do processamento do tema 364 Memória usada: 3160.46 MB
+2025-09-01 23:04:17,322 [INFO] Tema 365/458: Povos e Comunidades Tradicionais: sustentabilidade, valorização, salvaguarda, saberes e práticas (id 377)
+2025-09-01 23:04:17,323 [INFO] Antes do processamento do tema 365 Memória usada: 3160.46 MB
+2025-09-01 23:04:21,623 [INFO] Depois do processamento do tema 365 Memória usada: 3160.46 MB
+2025-09-01 23:04:21,625 [INFO] Tema 366/458: Tecnologias aplicadas à Recuperação Ambiental (id 378)
+2025-09-01 23:04:21,626 [INFO] Antes do processamento do tema 366 Memória usada: 3160.46 MB
+2025-09-01 23:04:24,427 [INFO] Depois do processamento do tema 366 Memória usada: 3160.46 MB
+2025-09-01 23:04:24,431 [INFO] Tema 367/458: Tecnologias da Informação e Comunicação: formação continuada (id 379)
+2025-09-01 23:04:24,432 [INFO] Antes do processamento do tema 367 Memória usada: 3160.46 MB
+2025-09-01 23:04:27,788 [INFO] Depois do processamento do tema 367 Memória usada: 3160.32 MB
+2025-09-01 23:04:27,790 [INFO] Tema 368/458: Administração Pública: gestão e inovações tecnológicas (id 380)
+2025-09-01 23:04:27,791 [INFO] Antes do processamento do tema 368 Memória usada: 3160.32 MB
+2025-09-01 23:04:30,479 [INFO] Depois do processamento do tema 368 Memória usada: 3160.32 MB
+2025-09-01 23:04:30,482 [INFO] Tema 369/458: Agricultura Familiar Sustentável (id 381)
+2025-09-01 23:04:30,483 [INFO] Antes do processamento do tema 369 Memória usada: 3160.32 MB
+2025-09-01 23:04:33,352 [INFO] Depois do processamento do tema 369 Memória usada: 3160.45 MB
+2025-09-01 23:04:33,355 [INFO] Tema 370/458: Bioeconomia e Sociobiodiversidade (id 383)
+2025-09-01 23:04:33,356 [INFO] Antes do processamento do tema 370 Memória usada: 3160.45 MB
+2025-09-01 23:04:36,424 [INFO] Depois do processamento do tema 370 Memória usada: 3160.45 MB
+2025-09-01 23:04:36,525 [INFO] Tema 371/458: Ciência de Dados e Inteligência Artificial (id 384)
+2025-09-01 23:04:36,526 [INFO] Antes do processamento do tema 371 Memória usada: 3148.56 MB
+2025-09-01 23:04:39,193 [INFO] Depois do processamento do tema 371 Memória usada: 3150.30 MB
+2025-09-01 23:04:39,196 [INFO] Tema 372/458: Desenvolvimento Econômico e Social: turismo eco sustentável e indígena (id 385)
+2025-09-01 23:04:39,197 [INFO] Antes do processamento do tema 372 Memória usada: 3150.30 MB
+2025-09-01 23:04:42,011 [INFO] Depois do processamento do tema 372 Memória usada: 3150.30 MB
+2025-09-01 23:04:42,015 [INFO] Tema 373/458: Educação, Saúde e Diversidade Cultural (id 386)
+2025-09-01 23:04:42,015 [INFO] Antes do processamento do tema 373 Memória usada: 3150.30 MB
+2025-09-01 23:04:45,498 [INFO] Depois do processamento do tema 373 Memória usada: 3150.17 MB
+2025-09-01 23:04:45,501 [INFO] Tema 374/458: Formação Docente e Gestores Educacionais: fortalecimento da educação básica e relações transfronteiriças (id 388)
+2025-09-01 23:04:45,502 [INFO] Antes do processamento do tema 374 Memória usada: 3150.17 MB
+2025-09-01 23:05:19,876 [INFO] Depois do processamento do tema 374 Memória usada: 3150.18 MB
+2025-09-01 23:05:19,879 [INFO] Tema 375/458: Inclusão e Acessibilidade Digital (id 389)
+2025-09-01 23:05:19,880 [INFO] Antes do processamento do tema 375 Memória usada: 3150.18 MB
+2025-09-01 23:05:22,787 [INFO] Depois do processamento do tema 375 Memória usada: 3150.29 MB
+2025-09-01 23:05:22,790 [INFO] Tema 376/458: Manejo Integrado do Fogo e Ações Integradas de Recuperação  Ambiental (id 390)
+2025-09-01 23:05:22,791 [INFO] Antes do processamento do tema 376 Memória usada: 3150.29 MB
+2025-09-01 23:05:25,536 [INFO] Depois do processamento do tema 376 Memória usada: 3150.16 MB
+2025-09-01 23:05:25,539 [INFO] Tema 377/458: Migração Transformacional, Nacional e Mobilidade Urbana (id 391)
+2025-09-01 23:05:25,540 [INFO] Antes do processamento do tema 377 Memória usada: 3150.16 MB
+2025-09-01 23:05:28,324 [INFO] Depois do processamento do tema 377 Memória usada: 3150.14 MB
+2025-09-01 23:05:28,327 [INFO] Tema 378/458: Mudanças Climáticas e Ações Integradas de Sustentabilidade (id 392)
+2025-09-01 23:05:28,329 [INFO] Antes do processamento do tema 378 Memória usada: 3150.14 MB
+2025-09-01 23:05:31,185 [INFO] Depois do processamento do tema 378 Memória usada: 3150.33 MB
+2025-09-01 23:05:31,188 [INFO] Tema 379/458: Planejamento e Desenvolvimento Urbano  (id 393)
+2025-09-01 23:05:31,189 [INFO] Antes do processamento do tema 379 Memória usada: 3150.33 MB
+2025-09-01 23:05:34,093 [INFO] Depois do processamento do tema 379 Memória usada: 3150.45 MB
+2025-09-01 23:05:34,096 [INFO] Tema 380/458: Povos Indígenas, Etnoconhecimento e Ações Integradas de Sustentabilidade (id 394)
+2025-09-01 23:05:34,097 [INFO] Antes do processamento do tema 380 Memória usada: 3150.45 MB
+2025-09-01 23:05:37,150 [INFO] Depois do processamento do tema 380 Memória usada: 3150.45 MB
+2025-09-01 23:05:37,252 [INFO] Tema 381/458: Produção Sustentável de Alimentos (id 395)
+2025-09-01 23:05:37,253 [INFO] Antes do processamento do tema 381 Memória usada: 3150.54 MB
+2025-09-01 23:05:39,885 [INFO] Depois do processamento do tema 381 Memória usada: 3150.60 MB
+2025-09-01 23:05:39,888 [INFO] Tema 382/458: Produção e Segurança Alimentar: políticas públicas e governança (id 396)
+2025-09-01 23:05:39,889 [INFO] Antes do processamento do tema 382 Memória usada: 3150.60 MB
+2025-09-01 23:05:42,503 [INFO] Depois do processamento do tema 382 Memória usada: 3150.60 MB
+2025-09-01 23:05:42,507 [INFO] Tema 383/458: Saúde Pública, Desenvolvimento e Impactos Ambientais (id 399)
+2025-09-01 23:05:42,508 [INFO] Antes do processamento do tema 383 Memória usada: 3150.60 MB
+2025-09-01 23:05:45,798 [INFO] Depois do processamento do tema 383 Memória usada: 3150.86 MB
+2025-09-01 23:05:45,802 [INFO] Tema 384/458: Violências, Direitos Humanos e Segurança Pública (id 400)
+2025-09-01 23:05:45,802 [INFO] Antes do processamento do tema 384 Memória usada: 3150.86 MB
+2025-09-01 23:05:48,884 [INFO] Depois do processamento do tema 384 Memória usada: 3150.85 MB
+2025-09-01 23:05:48,888 [INFO] Tema 385/458: Agronegócios: sustentabilidade, agroindústria, agropecuária, agricultura familiar, novas gerações e sucessão familiar (id 401)
+2025-09-01 23:05:48,889 [INFO] Antes do processamento do tema 385 Memória usada: 3150.85 MB
+2025-09-01 23:05:53,591 [INFO] Depois do processamento do tema 385 Memória usada: 3150.83 MB
+2025-09-01 23:05:53,594 [INFO] Tema 386/458: Bioeconomia: economia verde, energia limpa e carbono zero (id 402)
+2025-09-01 23:05:53,595 [INFO] Antes do processamento do tema 386 Memória usada: 3150.83 MB
+2025-09-01 23:05:59,921 [INFO] Depois do processamento do tema 386 Memória usada: 3150.83 MB
+2025-09-01 23:05:59,925 [INFO] Tema 387/458: Biotecnologia: processos, alimentos e materiais (id 403)
+2025-09-01 23:05:59,925 [INFO] Antes do processamento do tema 387 Memória usada: 3150.83 MB
+2025-09-01 23:06:10,037 [INFO] Depois do processamento do tema 387 Memória usada: 3150.94 MB
+2025-09-01 23:06:10,040 [INFO] Tema 388/458: Cidades Inteligentes e Mobilidade (id 404)
+2025-09-01 23:06:10,040 [INFO] Antes do processamento do tema 388 Memória usada: 3150.94 MB
+2025-09-01 23:06:16,124 [INFO] Depois do processamento do tema 388 Memória usada: 3151.19 MB
+2025-09-01 23:06:16,127 [INFO] Tema 389/458: Energias Renováveis e Transição Energética (id 405)
+2025-09-01 23:06:16,128 [INFO] Antes do processamento do tema 389 Memória usada: 3151.19 MB
+2025-09-01 23:06:21,965 [INFO] Depois do processamento do tema 389 Memória usada: 3151.18 MB
+2025-09-01 23:06:21,968 [INFO] Tema 390/458: Gestão do Conhecimento: ecossistema, pessoas, comunidade e produtividade (id 406)
+2025-09-01 23:06:21,968 [INFO] Antes do processamento do tema 390 Memória usada: 3151.18 MB
+2025-09-01 23:06:33,510 [INFO] Depois do processamento do tema 390 Memória usada: 3151.43 MB
+2025-09-01 23:06:33,625 [INFO] Tema 391/458: Inclusão: educação digital e tecnologias assistivas (id 407)
+2025-09-01 23:06:33,626 [INFO] Antes do processamento do tema 391 Memória usada: 3145.96 MB
+2025-09-01 23:06:53,364 [INFO] Depois do processamento do tema 391 Memória usada: 3145.84 MB
+2025-09-01 23:06:53,367 [INFO] Tema 392/458: Indústrias 4.0 e 5.0: competitividade e educação voltada à indústria (id 408)
+2025-09-01 23:06:53,368 [INFO] Antes do processamento do tema 392 Memória usada: 3145.84 MB
+2025-09-01 23:07:01,075 [INFO] Depois do processamento do tema 392 Memória usada: 3145.84 MB
+2025-09-01 23:07:01,079 [INFO] Tema 393/458: Inovação e Empreendedorismo (id 409)
+2025-09-01 23:07:01,079 [INFO] Antes do processamento do tema 393 Memória usada: 3145.84 MB
+2025-09-01 23:07:13,895 [INFO] Depois do processamento do tema 393 Memória usada: 3145.84 MB
+2025-09-01 23:07:13,899 [INFO] Tema 394/458: Saúde: longevidade, nutrição, saúde mental, qualidade de vida e deficiências (id 410)
+2025-09-01 23:07:13,899 [INFO] Antes do processamento do tema 394 Memória usada: 3145.84 MB
+2025-09-01 23:07:22,442 [INFO] Depois do processamento do tema 394 Memória usada: 3145.84 MB
+2025-09-01 23:07:22,445 [INFO] Tema 395/458: Tecnologia da Saúde: fármacos e cosméticos (id 411)
+2025-09-01 23:07:22,446 [INFO] Antes do processamento do tema 395 Memória usada: 3145.84 MB
+2025-09-01 23:07:25,614 [INFO] Depois do processamento do tema 395 Memória usada: 3145.71 MB
+2025-09-01 23:07:25,618 [INFO] Tema 396/458: Tecnologias Espaciais: dados geoespaciais, desastres ambientais, planejamento territorial e ambiental
+
+ (id 412)
+2025-09-01 23:07:25,618 [INFO] Antes do processamento do tema 396 Memória usada: 3145.71 MB
+2025-09-01 23:07:38,864 [INFO] Depois do processamento do tema 396 Memória usada: 3145.71 MB
+2025-09-01 23:07:38,869 [INFO] Tema 397/458: Tecnologias da Informação e Comunicação: inteligência artificial, internet das coisas, robótica e bioinformação
+
+ (id 413)
+2025-09-01 23:07:38,870 [INFO] Antes do processamento do tema 397 Memória usada: 3145.71 MB
+2025-09-01 23:07:43,492 [INFO] Depois do processamento do tema 397 Memória usada: 3145.70 MB
+2025-09-01 23:07:43,495 [INFO] Tema 398/458: Turismo Sustentável e Economia Criativa (id 414)
+2025-09-01 23:07:43,496 [INFO] Antes do processamento do tema 398 Memória usada: 3145.70 MB
+2025-09-01 23:07:47,818 [INFO] Depois do processamento do tema 398 Memória usada: 3145.71 MB
+2025-09-01 23:07:47,822 [INFO] Tema 399/458: Biotecnologia: cadeia produtiva de alimentos e preservação dos mananciais aquíferos (id 415)
+2025-09-01 23:07:47,823 [INFO] Antes do processamento do tema 399 Memória usada: 3145.71 MB
+2025-09-01 23:07:52,829 [INFO] Depois do processamento do tema 399 Memória usada: 3146.08 MB
+2025-09-01 23:07:52,833 [INFO] Tema 400/458: Cadeias Produtivas (id 416)
+2025-09-01 23:07:52,833 [INFO] Antes do processamento do tema 400 Memória usada: 3146.08 MB
+2025-09-01 23:07:57,386 [INFO] Depois do processamento do tema 400 Memória usada: 3146.08 MB
+2025-09-01 23:07:57,517 [INFO] Tema 401/458: Cidades e Comunidades Sustentáveis: ecossistema de inovação, cidades inteligentes, turismo de base comunitária, economia criativa e parque industrial (id 417)
+2025-09-01 23:07:57,518 [INFO] Antes do processamento do tema 401 Memória usada: 3148.08 MB
+2025-09-01 23:08:00,181 [INFO] Depois do processamento do tema 401 Memória usada: 3148.03 MB
+2025-09-01 23:08:00,184 [INFO] Tema 402/458: Comunicação e Inteligência Artificial para Inclusão Social (id 418)
+2025-09-01 23:08:00,185 [INFO] Antes do processamento do tema 402 Memória usada: 3148.03 MB
+2025-09-01 23:08:04,042 [INFO] Depois do processamento do tema 402 Memória usada: 3148.03 MB
+2025-09-01 23:08:04,046 [INFO] Tema 403/458: Cultura, Arte e Economia Criativa (id 419)
+2025-09-01 23:08:04,047 [INFO] Antes do processamento do tema 403 Memória usada: 3148.03 MB
+2025-09-01 23:08:07,081 [INFO] Depois do processamento do tema 403 Memória usada: 3148.02 MB
+2025-09-01 23:08:07,086 [INFO] Tema 404/458: Educação de Qualidade: formação de professores, educação inclusiva, extensão na curricularização, desenvolvimento e acesso a tecnologias educacionais (id 420)
+2025-09-01 23:08:07,086 [INFO] Antes do processamento do tema 404 Memória usada: 3148.02 MB
+2025-09-01 23:08:16,534 [INFO] Depois do processamento do tema 404 Memória usada: 3148.27 MB
+2025-09-01 23:08:16,537 [INFO] Tema 405/458: Energia e Tecnologias: energia limpa e acessível, matriz e transição energética, petróleo e gás, hidrogênio verde e azul (id 421)
+2025-09-01 23:08:16,539 [INFO] Antes do processamento do tema 405 Memória usada: 3148.27 MB
+2025-09-01 23:08:19,542 [INFO] Depois do processamento do tema 405 Memória usada: 3148.27 MB
+2025-09-01 23:08:19,545 [INFO] Tema 406/458: Governança Pública (id 422)
+2025-09-01 23:08:19,546 [INFO] Antes do processamento do tema 406 Memória usada: 3148.27 MB
+2025-09-01 23:08:23,982 [INFO] Depois do processamento do tema 406 Memória usada: 3148.14 MB
+2025-09-01 23:08:23,986 [INFO] Tema 407/458: Indústria, Inovação e Infraestrutura (id 423)
+2025-09-01 23:08:23,987 [INFO] Antes do processamento do tema 407 Memória usada: 3148.14 MB
+2025-09-01 23:08:26,786 [INFO] Depois do processamento do tema 407 Memória usada: 3148.14 MB
+2025-09-01 23:08:26,789 [INFO] Tema 408/458: Infraestrutura Econômica e Habitacional (id 424)
+2025-09-01 23:08:26,790 [INFO] Antes do processamento do tema 408 Memória usada: 3148.14 MB
+2025-09-01 23:08:30,273 [INFO] Depois do processamento do tema 408 Memória usada: 3148.14 MB
+2025-09-01 23:08:30,277 [INFO] Tema 409/458: Inovação  Organizacional e nos Negócios Tradicionais (id 425)
+2025-09-01 23:08:30,277 [INFO] Antes do processamento do tema 409 Memória usada: 3148.14 MB
+2025-09-01 23:08:34,180 [INFO] Depois do processamento do tema 409 Memória usada: 3148.51 MB
+2025-09-01 23:08:34,185 [INFO] Tema 410/458: Meio Ambiente e Recursos Naturais (id 426)
+2025-09-01 23:08:34,185 [INFO] Antes do processamento do tema 410 Memória usada: 3148.51 MB
+2025-09-01 23:08:39,425 [INFO] Depois do processamento do tema 410 Memória usada: 3148.52 MB
+2025-09-01 23:08:39,530 [INFO] Tema 411/458: Redução das Desigualdades: tecnologias sociais, povos originários, empregabilidade e igualdade de gênero (id 428)
+2025-09-01 23:08:39,531 [INFO] Antes do processamento do tema 411 Memória usada: 3144.07 MB
+2025-09-01 23:08:44,951 [INFO] Depois do processamento do tema 411 Memória usada: 3144.06 MB
+2025-09-01 23:08:44,954 [INFO] Tema 412/458: Saúde Mental e Práticas Integrativas em Saúde (id 429)
+2025-09-01 23:08:44,955 [INFO] Antes do processamento do tema 412 Memória usada: 3144.06 MB
+2025-09-01 23:08:47,762 [INFO] Depois do processamento do tema 412 Memória usada: 3144.06 MB
+2025-09-01 23:08:47,766 [INFO] Tema 413/458: Saúde e Bem-Estar: doenças negligenciadas, democratização do acesso, inovação e desenvolvimento tecnológico (id 430)
+2025-09-01 23:08:47,767 [INFO] Antes do processamento do tema 413 Memória usada: 3144.06 MB
+2025-09-01 23:08:51,041 [INFO] Depois do processamento do tema 413 Memória usada: 3144.05 MB
+2025-09-01 23:08:51,044 [INFO] Tema 414/458: Segurança Alimentar e Agricultura: biotecnologia e biomas (id 431)
+2025-09-01 23:08:51,045 [INFO] Antes do processamento do tema 414 Memória usada: 3144.05 MB
+2025-09-01 23:08:55,764 [INFO] Depois do processamento do tema 414 Memória usada: 3143.92 MB
+2025-09-01 23:08:55,768 [INFO] Tema 415/458: Tecnologias Habilitadoras: ecossistema de inovação para o setor produtivo (id 432)
+2025-09-01 23:08:55,769 [INFO] Antes do processamento do tema 415 Memória usada: 3143.92 MB
+2025-09-01 23:08:59,126 [INFO] Depois do processamento do tema 415 Memória usada: 3144.03 MB
+2025-09-01 23:08:59,129 [INFO] Tema 416/458: Tecnologias da Informação e Comunicação: automação, bioinformática, internet das coisas e robótica (id 433)
+2025-09-01 23:08:59,130 [INFO] Antes do processamento do tema 416 Memória usada: 3144.03 MB
+2025-09-01 23:09:02,273 [INFO] Depois do processamento do tema 416 Memória usada: 3144.41 MB
+2025-09-01 23:09:02,277 [INFO] Tema 417/458: Agropecuária Avançada (id 434)
+2025-09-01 23:09:02,277 [INFO] Antes do processamento do tema 417 Memória usada: 3144.41 MB
+2025-09-01 23:09:31,096 [INFO] Depois do processamento do tema 417 Memória usada: 3144.17 MB
+2025-09-01 23:09:31,099 [INFO] Tema 418/458: Biotecnologia: saúde humana, animal, microrganismos e vegetal (id 435)
+2025-09-01 23:09:31,100 [INFO] Antes do processamento do tema 418 Memória usada: 3144.17 MB
+2025-09-01 23:10:02,377 [INFO] Depois do processamento do tema 418 Memória usada: 3144.26 MB
+2025-09-01 23:10:02,381 [INFO] Tema 419/458: Cidades Sustentáveis e Inteligentes: planejamento territorial, mobilidade e aspectos legais, sociais e tecnológicos (id 436)
+2025-09-01 23:10:02,381 [INFO] Antes do processamento do tema 419 Memória usada: 3144.26 MB
+2025-09-01 23:10:24,656 [INFO] Depois do processamento do tema 419 Memória usada: 3144.34 MB
+2025-09-01 23:10:24,659 [INFO] Tema 420/458: Ciência de Dados e Inteligência Artificial (id 437)
+2025-09-01 23:10:24,660 [INFO] Antes do processamento do tema 420 Memória usada: 3144.34 MB
+2025-09-01 23:10:43,898 [INFO] Depois do processamento do tema 420 Memória usada: 3144.52 MB
+2025-09-01 23:10:44,027 [INFO] Tema 421/458: Cultura: acesso, fomento e preservação (id 438)
+2025-09-01 23:10:44,028 [INFO] Antes do processamento do tema 421 Memória usada: 3158.04 MB
+2025-09-01 23:11:13,911 [INFO] Depois do processamento do tema 421 Memória usada: 3159.11 MB
+2025-09-01 23:11:13,914 [INFO] Tema 422/458: Diversidade e Inclusão: democratização da sociedade (id 439)
+2025-09-01 23:11:13,915 [INFO] Antes do processamento do tema 422 Memória usada: 3159.11 MB
+2025-09-01 23:11:43,657 [INFO] Depois do processamento do tema 422 Memória usada: 3159.38 MB
+2025-09-01 23:11:43,662 [INFO] Tema 423/458: Educação de Qualidade com Equidade: ampliação do acesso, permanência e absorção de talentos em setores portadores de futuro (id 440)
+2025-09-01 23:11:43,663 [INFO] Antes do processamento do tema 423 Memória usada: 3159.38 MB
+2025-09-01 23:12:55,935 [INFO] Depois do processamento do tema 423 Memória usada: 3158.91 MB
+2025-09-01 23:12:55,940 [INFO] Tema 424/458: Energias Renováveis e Transição Energética (id 441)
+2025-09-01 23:12:55,941 [INFO] Antes do processamento do tema 424 Memória usada: 3158.91 MB
+2025-09-01 23:13:10,296 [INFO] Depois do processamento do tema 424 Memória usada: 3161.86 MB
+2025-09-01 23:13:10,300 [INFO] Tema 425/458: Formação de Professores: novas estratégias formativas (id 442)
+2025-09-01 23:13:10,301 [INFO] Antes do processamento do tema 425 Memória usada: 3161.86 MB
+2025-09-01 23:14:26,036 [INFO] Depois do processamento do tema 425 Memória usada: 3162.12 MB
+2025-09-01 23:14:26,040 [INFO] Tema 426/458: Gestão do Território: planejamento hídrico e gestão de riscos e desastres (id 443)
+2025-09-01 23:14:26,040 [INFO] Antes do processamento do tema 426 Memória usada: 3162.12 MB
+2025-09-01 23:14:39,288 [INFO] Depois do processamento do tema 426 Memória usada: 3164.96 MB
+2025-09-01 23:14:39,293 [INFO] Tema 427/458: Indústria 4.0: inovação, empreendedorismo e sistemas sociotécnicos (id 444)
+2025-09-01 23:14:39,293 [INFO] Antes do processamento do tema 427 Memória usada: 3164.96 MB
+2025-09-01 23:14:58,861 [INFO] Depois do processamento do tema 427 Memória usada: 3165.09 MB
+2025-09-01 23:14:58,865 [INFO] Tema 428/458: Mudanças Climáticas e Biodiversidade (id 445)
+2025-09-01 23:14:58,866 [INFO] Antes do processamento do tema 428 Memória usada: 3165.09 MB
+2025-09-01 23:15:16,421 [INFO] Depois do processamento do tema 428 Memória usada: 3165.66 MB
+2025-09-01 23:15:16,425 [INFO] Tema 429/458: Pequenas e Médias Empresas de Base Tecnológica: inovação e cadeias de negócios locais e globais (id 446)
+2025-09-01 23:15:16,425 [INFO] Antes do processamento do tema 429 Memória usada: 3165.66 MB
+2025-09-01 23:15:31,567 [INFO] Depois do processamento do tema 429 Memória usada: 3165.09 MB
+2025-09-01 23:15:31,572 [INFO] Tema 430/458: Popularização da Ciência (id 447)
+2025-09-01 23:15:31,573 [INFO] Antes do processamento do tema 430 Memória usada: 3165.09 MB
+2025-09-01 23:16:12,201 [INFO] Depois do processamento do tema 430 Memória usada: 3165.40 MB
+2025-09-01 23:16:12,398 [INFO] Tema 431/458: Saúde Única: humana, animal e ambiental (id 448)
+2025-09-01 23:16:12,399 [INFO] Antes do processamento do tema 431 Memória usada: 3188.22 MB
+2025-09-01 23:16:24,753 [INFO] Depois do processamento do tema 431 Memória usada: 3185.10 MB
+2025-09-01 23:16:24,756 [INFO] Tema 432/458: Tecnologias Quânticas: computação, sensores, comunicação e cibersegurança (id 449)
+2025-09-01 23:16:24,757 [INFO] Antes do processamento do tema 432 Memória usada: 3185.10 MB
+2025-09-01 23:16:30,055 [INFO] Depois do processamento do tema 432 Memória usada: 3185.08 MB
+2025-09-01 23:16:30,059 [INFO] Tema 433/458: Agrotecnologia: política de avanço e agricultura inovadora (id 450)
+2025-09-01 23:16:30,059 [INFO] Antes do processamento do tema 433 Memória usada: 3185.08 MB
+2025-09-01 23:16:33,417 [INFO] Depois do processamento do tema 433 Memória usada: 3186.22 MB
+2025-09-01 23:16:33,420 [INFO] Tema 434/458: Aquicultura e Gestão de Recursos Hídricos (id 451)
+2025-09-01 23:16:33,421 [INFO] Antes do processamento do tema 434 Memória usada: 3186.22 MB
+2025-09-01 23:16:37,263 [INFO] Depois do processamento do tema 434 Memória usada: 3187.13 MB
+2025-09-01 23:16:37,267 [INFO] Tema 435/458: Bioeconomia da Amazônia Legal (id 452)
+2025-09-01 23:16:37,268 [INFO] Antes do processamento do tema 435 Memória usada: 3187.13 MB
+2025-09-01 23:16:40,580 [INFO] Depois do processamento do tema 435 Memória usada: 3187.85 MB
+2025-09-01 23:16:40,584 [INFO] Tema 436/458: Biotecnologia: agregação de valor aos recursos naturais (id 453)
+2025-09-01 23:16:40,585 [INFO] Antes do processamento do tema 436 Memória usada: 3187.85 MB
+2025-09-01 23:16:44,060 [INFO] Depois do processamento do tema 436 Memória usada: 3187.84 MB
+2025-09-01 23:16:44,065 [INFO] Tema 437/458: Conhecimentos Tradicionais e Tecnologias Sociais (id 454)
+2025-09-01 23:16:44,065 [INFO] Antes do processamento do tema 437 Memória usada: 3187.84 MB
+2025-09-01 23:16:47,611 [INFO] Depois do processamento do tema 437 Memória usada: 3187.97 MB
+2025-09-01 23:16:47,613 [INFO] Tema 438/458: Desenvolvimento Regional Sustentável (id 455)
+2025-09-01 23:16:47,615 [INFO] Antes do processamento do tema 438 Memória usada: 3187.97 MB
+2025-09-01 23:16:51,115 [INFO] Depois do processamento do tema 438 Memória usada: 3187.75 MB
+2025-09-01 23:16:51,120 [INFO] Tema 439/458: Educação: docência e gestão regional (id 456)
+2025-09-01 23:16:51,120 [INFO] Antes do processamento do tema 439 Memória usada: 3187.75 MB
+2025-09-01 23:16:59,998 [INFO] Depois do processamento do tema 439 Memória usada: 3187.75 MB
+2025-09-01 23:17:00,000 [INFO] Tema 440/458: Engenharia da Computação (id 457)
+2025-09-01 23:17:00,002 [INFO] Antes do processamento do tema 440 Memória usada: 3187.75 MB
+2025-09-01 23:17:02,865 [INFO] Depois do processamento do tema 440 Memória usada: 3187.56 MB
+2025-09-01 23:17:02,986 [INFO] Tema 441/458: Ensino de História e Cultura Afro-Brasileira e Indígena (id 458)
+2025-09-01 23:17:02,987 [INFO] Antes do processamento do tema 441 Memória usada: 3172.86 MB
+2025-09-01 23:17:07,443 [INFO] Depois do processamento do tema 441 Memória usada: 3172.86 MB
+2025-09-01 23:17:07,446 [INFO] Tema 442/458: Epidemiologia e Estatística (id 459)
+2025-09-01 23:17:07,447 [INFO] Antes do processamento do tema 442 Memória usada: 3172.86 MB
+2025-09-01 23:17:11,497 [INFO] Depois do processamento do tema 442 Memória usada: 3172.80 MB
+2025-09-01 23:17:11,500 [INFO] Tema 443/458: Matemática: aplicada e experimental (id 461)
+2025-09-01 23:17:11,502 [INFO] Antes do processamento do tema 443 Memória usada: 3172.80 MB
+2025-09-01 23:17:14,980 [INFO] Depois do processamento do tema 443 Memória usada: 3172.66 MB
+2025-09-01 23:17:14,983 [INFO] Tema 444/458: Povos Originários e Comunidades Tradicionais: política de valorização (id 462)
+2025-09-01 23:17:14,984 [INFO] Antes do processamento do tema 444 Memória usada: 3172.66 MB
+2025-09-01 23:17:20,868 [INFO] Depois do processamento do tema 444 Memória usada: 3172.79 MB
+2025-09-01 23:17:20,871 [INFO] Tema 445/458: Práticas em Saúde (id 463)
+2025-09-01 23:17:20,872 [INFO] Antes do processamento do tema 445 Memória usada: 3172.79 MB
+2025-09-01 23:17:23,737 [INFO] Depois do processamento do tema 445 Memória usada: 3172.79 MB
+2025-09-01 23:17:23,740 [INFO] Tema 446/458: Relações de Trabalho: aspectos éticos no uso da tecnologia e inovação (id 464)
+2025-09-01 23:17:23,741 [INFO] Antes do processamento do tema 446 Memória usada: 3172.79 MB
+2025-09-01 23:17:26,702 [INFO] Depois do processamento do tema 446 Memória usada: 3172.79 MB
+2025-09-01 23:17:26,706 [INFO] Tema 447/458: Saúde: serviços, infraestrutura, gestão e organização (id 465)
+2025-09-01 23:17:26,707 [INFO] Antes do processamento do tema 447 Memória usada: 3172.79 MB
+2025-09-01 23:17:29,493 [INFO] Depois do processamento do tema 447 Memória usada: 3172.79 MB
+2025-09-01 23:17:29,496 [INFO] Tema 448/458: Sistemas Agrícolas Sustentáveis (id 466)
+2025-09-01 23:17:29,497 [INFO] Antes do processamento do tema 448 Memória usada: 3172.79 MB
+2025-09-01 23:17:33,108 [INFO] Depois do processamento do tema 448 Memória usada: 3172.67 MB
+2025-09-01 23:17:33,112 [INFO] Tema 449/458: Transformação Digital (id 467)
+2025-09-01 23:17:33,113 [INFO] Antes do processamento do tema 449 Memória usada: 3172.67 MB
+2025-09-01 23:17:36,279 [INFO] Depois do processamento do tema 449 Memória usada: 3172.80 MB
+2025-09-01 23:17:36,282 [INFO] Tema 450/458: Turismo: gestão e hospitalidade (id 468)
+2025-09-01 23:17:36,283 [INFO] Antes do processamento do tema 450 Memória usada: 3172.80 MB
+2025-09-01 23:17:38,858 [INFO] Depois do processamento do tema 450 Memória usada: 3172.79 MB
+2025-09-01 23:17:38,964 [INFO] Tema 451/458: Agropecuária e Agronegócio Sustentáveis: baixo carbono e novas tecnologias (id 2)
+2025-09-01 23:17:38,965 [INFO] Antes do processamento do tema 451 Memória usada: 3170.60 MB
+2025-09-01 23:17:41,571 [INFO] Depois do processamento do tema 451 Memória usada: 3170.36 MB
+2025-09-01 23:17:41,574 [INFO] Tema 452/458: Relações Transfronteiriças: Amapá-Guiana Francesa (id 46)
+2025-09-01 23:17:41,575 [INFO] Antes do processamento do tema 452 Memória usada: 3170.36 MB
+2025-09-01 23:17:44,285 [INFO] Depois do processamento do tema 452 Memória usada: 3170.34 MB
+2025-09-01 23:17:44,289 [INFO] Tema 453/458: Territórios Quilombolas: trajetórias de autonomia, titulação e lutas por reconhecimento e justiça (id 52)
+2025-09-01 23:17:44,290 [INFO] Antes do processamento do tema 453 Memória usada: 3170.34 MB
+2025-09-01 23:17:47,198 [INFO] Depois do processamento do tema 453 Memória usada: 3170.34 MB
+2025-09-01 23:17:47,200 [INFO] Tema 454/458: Desenvolvimento Sustentável em Óleo e Gás: pesquisa e formação (id 176)
+2025-09-01 23:17:47,201 [INFO] Antes do processamento do tema 454 Memória usada: 3170.34 MB
+2025-09-01 23:17:49,737 [INFO] Depois do processamento do tema 454 Memória usada: 3170.21 MB
+2025-09-01 23:17:49,741 [INFO] Tema 455/458: Mineração Responsável e Legal (id 375)
+2025-09-01 23:17:49,742 [INFO] Antes do processamento do tema 455 Memória usada: 3170.21 MB
+2025-09-01 23:17:52,333 [INFO] Depois do processamento do tema 455 Memória usada: 3170.21 MB
+2025-09-01 23:17:52,336 [INFO] Tema 456/458: Agroindústria: processamento e valor agregado (id 382)
+2025-09-01 23:17:52,337 [INFO] Antes do processamento do tema 456 Memória usada: 3170.21 MB
+2025-09-01 23:17:54,991 [INFO] Depois do processamento do tema 456 Memória usada: 3170.30 MB
+2025-09-01 23:17:54,995 [INFO] Tema 457/458: Relações Internacionais Transfronteiriças e Políticas Públicas (id 397)
+2025-09-01 23:17:54,996 [INFO] Antes do processamento do tema 457 Memória usada: 3170.30 MB
+2025-09-01 23:18:20,396 [INFO] Depois do processamento do tema 457 Memória usada: 3170.42 MB
+2025-09-01 23:18:20,398 [INFO] Tema 458/458: Sanidade Animal e Vegetal (id 398)
+2025-09-01 23:18:20,400 [INFO] Antes do processamento do tema 458 Memória usada: 3170.42 MB
+2025-09-01 23:18:31,045 [INFO] Depois do processamento do tema 458 Memória usada: 3170.36 MB
+2025-09-01 23:18:31,661 [INFO] Total de emissões (kg CO2): 0.02120723912016857
+2025-09-01 23:18:31,662 [INFO] Fim do processamento: 2025-09-01 23:18:31.662048
+2025-09-01 23:18:31,662 [INFO] Duração total: 1:00:21.754271
+2025-09-01 23:18:31,665 [INFO] Uso final Memória usada: 3170.36 MB
